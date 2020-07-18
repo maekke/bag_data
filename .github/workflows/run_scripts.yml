@@ -18,6 +18,9 @@ jobs:
       with:
         python-version: 3.7
 
+    - name: install poppler-utils
+      run: sudo apt-get install poppler-utils
+
     - name: execute run-latest.sh script
       shell: bash
       run: ./run-latest.sh
