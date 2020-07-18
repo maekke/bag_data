@@ -53,16 +53,16 @@ if tot_tests is None and pcr_pos > 0:
         tot_tests = txt_to_int(m[1])
 #print(tot_tests)
 
-isolated = txt_to_int(search(r'(\d+) (Fälle)? in Isolation', txt, index=1))
+isolated = txt_to_int(search(r'(\d+)\s+(Fälle|Personen aufgrund einer laborbestätigten COVID-19 Erkrankung)? in\sIsolation', txt, index=1))
 #print(isolated)
 
-quarantined = txt_to_int(search(r'(\d+) in Quarantäne', txt))
+quarantined = txt_to_int(search(r'(\d+)\s?(in|Kontaktpersonen\sin\särztlich\sverordneter)? Quarantäne', txt))
 #print(quarantined)
 
 if isolated is None and quarantined is None:
     pos = txt.find('Contact Tracing')
     if pos > 0:
-        p = re.compile(r'Total.*\s+([\d\s]+)\s+([\d\s]+)')
+        p = re.compile(r'Total.*\s+(\d+)\s+(\d+)')
         m = p.search(txt, pos)
         if m is not None:
             isolated = txt_to_int(m[1])
