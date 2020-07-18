@@ -117,7 +117,6 @@ date,total_number_of_tests,isolated,quarantined,source_file
 2020-06-29 08:00:00,566594,,,Web_200629_Internettext Lage Inland_DE.pdf
 2020-06-30 07:54:00,572664,,,Web_200630_Internettext Lage Inland_DE.pdf
 2020-07-01 08:00:00,583928,,,Web_200701_Internettext Lage Inland_DE.pdf
-2020-07-01 08:00:00,583928,351,1492,Web_200701_KW26_Internettext Woche Lage Inland_DE.pdf
 2020-07-02 08:00:00,599105,,,Web_200702_Internettext Lage Inland_DE.pdf
 2020-07-03 08:00:00,614283,475,2681,Web_200703_Internettext Lage Inland_DE.pdf
 2020-07-04 08:00:00,624396,531,2870,Web_200704_Internettext Lage Inland_DE.pdf
@@ -125,7 +124,6 @@ date,total_number_of_tests,isolated,quarantined,source_file
 2020-07-06 08:00:00,636397,533,3160,Web_200706_Internettext Lage Inland_DE.pdf
 2020-07-07 08:00:00,641982,536,3141,Web_200707_Internettext Lage Inland_DE.pdf
 2020-07-08 08:00:00,652413,620,3521,Web_200708_Internettext Lage Inland_DE.pdf
-2020-07-08 08:00:00,652413,620,3521,Web_200708_KW27_Internettext_Woche Lage Inland_DE.pdf
 2020-07-09 08:00:00,661362,628,2948,Web_200709_Internettext Lage Inland_DE.pdf
 2020-07-10 08:00:00,670484,648,2585,Web_200710_Internettext Lage Inland_DE.pdf
 2020-07-11 08:00:00,678679,640,2586,Web_200711_Internettext Lage Inland_DE.pdf
@@ -133,7 +131,6 @@ date,total_number_of_tests,isolated,quarantined,source_file
 2020-07-13 08:00:00,686349,642,2663,Web_200713_Internettext Lage Inland_DE.pdf
 2020-07-14 08:00:00,690701,724,3288,Web_200714_Internettext Lage Inland_DE.pdf
 2020-07-15 08:00:00,700326,640,2897,Web_200715_Internettext Lage Inland_DE.pdf
-2020-07-15 08:00:00,700326,640,2897,Web_200715_KW28_Internettext Woche Lage Inland_DE.pdf
 2020-07-16 08:00:00,708370,708,3245,Web_200716_Internettext Lage Inland_DE.pdf
 2020-07-17 08:00:00,715487,630,2328,Web_200717_Internettext Lage Inland_DE.pdf
 2020-07-18 08:00:00,722116,620,2608,COVID-19_Epidemiologische_Lage_Schweiz.pdf
