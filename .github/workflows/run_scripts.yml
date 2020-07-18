@@ -2,8 +2,7 @@ name: Run scripts
 
 on:
   schedule:
-    #- cron:  '0 11 * * *' # run at 13:00 ZRH time
-    - cron:  '*/5 * * * *' # test...
+    - cron:  '0 11 * * *' # run at 13:00 ZRH time
 
 jobs:
   parse_latest_pdf:
