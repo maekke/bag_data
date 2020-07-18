@@ -1,5 +1,6 @@
 #!/bin/env python
 
+import datetime
 import re
 import subprocess
 import sys
@@ -25,6 +26,11 @@ def txt_to_int(txt):
             return int(txt)
     return None
 
+def parse_date(date_str):
+    date_str = date_str.replace('/', '.')
+    date_str = date_str.replace(',', '')
+    return datetime.datetime.strptime(date_str, '%d.%m.%Y %H:%M')
+
 if len(sys.argv) != 2:
     raise ValueError('please provide a file name as input!')
 
@@ -35,9 +41,8 @@ if date_time is None:
     date = search(r'Stand\: (\d{2}\.\d{2}\.20\d{2})', txt)
     time = search(r'Zeit: (\d+:\d{2})', txt)
     if date is not None and time is not None:
-        date_time = '{}, {}'.format(date, time)
-# TODO parse date_time
-#print(date)
+        date_time = '{} {}'.format(date, time)
+date = parse_date(date_time)
 
 tot_tests = txt_to_int(search(r'insgesamt auf( über| rund| mehr als)? ([\d\s’]+)\.', txt, index=2))
 pcr_pos = txt.find('PCR-Tests')
@@ -69,4 +74,4 @@ if isolated is None and quarantined is None:
             quarantined = txt_to_int(m[2])
 
 
-print('{};{};{};{};{}'.format(date_time, tot_tests, isolated, quarantined, filename))
+print('{};{};{};{};{}'.format(date, tot_tests, isolated, quarantined, filename))
