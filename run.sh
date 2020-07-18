@@ -3,7 +3,7 @@
 [[ -d tmp ]] && rm -r tmp
 
 out_file="bag_data.csv"
-echo "date;total_number_of_tests;isolated;quarantined;source_file" > ${out_file}
+echo "date,total_number_of_tests,isolated,quarantined,source_file" > ${out_file}
 
 mkdir -p tmp
 pushd tmp > /dev/null

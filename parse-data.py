@@ -68,4 +68,4 @@ if isolated is None and quarantined is None:
             isolated = txt_to_int(m[1])
             quarantined = txt_to_int(m[2])
 
-print('{};{};{};{};{}'.format(date, tot_tests, isolated, quarantined, filename))
+print('{},{},{},{},{}'.format(date, tot_tests or '', isolated or '', quarantined or '', filename))
