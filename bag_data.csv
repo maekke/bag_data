@@ -1,138 +1,138 @@
-date;total_number_of_tests;isolated;quarantined;source_file
-2020-03-07 09:00:00;None;None;None;Web_200307_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-08 09:30:00;None;None;None;Web_200308_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-09 08:00:00;None;None;None;Web_200309_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-10 09:30:00;None;None;None;Web_200310_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-11 08:30:00;None;None;None;Web_200311_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-12 08:00:00;None;None;None;Web_200312_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-13 08:30:00;None;None;None;Web_200313_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-14 08:30:00;None;None;None;Web_200314_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-15 10:40:00;None;None;None;Web_200315_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-16 07:30:00;None;None;None;Web_200316_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-17 08:10:00;None;None;None;Web_200317_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-18 08:15:00;None;None;None;Web_200318_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-19 08:00:00;None;None;None;Web_200319_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-20 08:00:00;None;None;None;Web_200320_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-21 08:15:00;None;None;None;Web_200321_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-22 08:07:00;None;None;None;Web_200322_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-23 08:12:00;None;None;None;Web_200323_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-24 09:00:00;None;None;None;Web_200324_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-25 08:15:00;None;None;None;Web_200325_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-26 08:00:00;None;None;None;Web_200326_Internettext Lage Inland_DE.pdf
-2020-03-27 08:05:00;None;None;None;Web_200327_Internettext Lage Inland_DE.pdf
-2020-03-28 08:00:00;None;None;None;Web_200328_Internettext Lage Inland_DE.pdf
-2020-03-29 08:00:00;None;None;None;Web_200329_Internettext Lage Inland_DE.pdf
-2020-03-30 08:10:00;None;None;None;Web_200330_Internettext Lage Inland_DE.pdf
-2020-03-31 08:00:00;None;None;None;Web_200331_Internettext Lage Inland_DE.pdf
-2020-04-01 08:00:00;None;None;None;Web_200401_Internettext Lage Inland_DE.pdf
-2020-04-02 08:00:00;None;None;None;Web_200402_Internettext Lage Inland_DE.pdf
-2020-04-03 08:00:00;None;None;None;Web_200403_Internettext Lage Inland_DE.pdf
-2020-04-04 08:00:00;None;None;None;Web_200404_Internettext Lage Inland_DE.pdf
-2020-04-05 08:00:00;None;None;None;Web_200405_Internettext Lage Inland_DE.pdf
-2020-04-06 08:00:00;None;None;None;Web_200406_Internettext Lage Inland_DE.pdf
-2020-04-07 08:00:00;None;None;None;Web_200407_Internettext Lage Inland_DE.pdf
-2020-04-08 08:00:00;None;None;None;Web_200408_Internettext Lage Inland_DE.pdf
-2020-04-09 08:00:00;None;None;None;Web_200409_Internettext Lage Inland_DE.pdf
-2020-04-10 08:00:00;None;None;None;Web_200410_Internettext Lage Inland_DE.pdf
-2020-04-11 08:00:00;190000;None;None;Web_200411_Internettext Lage Inland_DE.pdf
-2020-04-12 08:00:00;193800;None;None;Web_200412_Internettext Lage Inland_DE.pdf
-2020-04-13 08:00:00;196600;None;None;Web_200413_Internettext Lage Inland_DE.pdf
-2020-04-14 08:00:00;199000;None;None;Web_200414_Internettext Lage Inland_DE.pdf
-2020-04-15 08:00:00;202633;None;None;Web_200415_Internettext Lage Inland_DE.pdf
-2020-04-16 08:00:00;206400;None;None;Web_200416_Internettext_Lage Inland_DE.pdf
-2020-04-17 08:00:00;211400;None;None;Web_200417_Internettext_Lage Inland_DE.pdf
-2020-04-18 08:00:00;216400;None;None;Web_200418_Internettext_Lage Inland_DE.pdf
-2020-04-19 08:00:00;221263;None;None;Web_200419_Internettext_Lage Inland_DE.pdf
-2020-04-20 08:00:00;224442;None;None;Web_200420_Internettext_Lage Inland_DE.pdf
-2020-04-21 08:00:00;227554;None;None;Web_200421_Internettext_Lage Inland_DE.pdf
-2020-04-22 08:00:00;230946;None;None;Web_200422_Internettext Lage Inland_DE.pdf
-2020-04-23 09:30:00;235252;None;None;Web_200423_Internettext_Lage Inland_DE.pdf
-2020-04-24 07:30:00;240600;None;None;Web_200424_Internettext_Lage Inland_DE.pdf
-2020-04-25 07:30:00;245300;None;None;Web_200425_Internettext_Lage Inland_DE.pdf
-2020-04-26 07:30:00;249650;None;None;Web_200426_Internettext_Lage Inland_DE.pdf
-2020-04-27 08:00:00;252900;None;None;Web_200427_Internettext_Lage Inland_DE.pdf
-2020-04-28 08:00:00;256500;None;None;Web_200428_Internettext_Lage Inland_DE.pdf
-2020-04-29 08:00:00;260500;None;None;Web_200429_Internettext_Lage Inland_DE.pdf
-2020-04-30 08:00:00;266200;None;None;Web_200430_Internettext_Lage Inland_DE.pdf
-2020-05-01 08:00:00;271500;None;None;Web_200501_Internettext_Lage Inland_DE.pdf
-2020-05-02 08:00:00;276000;None;None;Web_200502_Internettext_Lage Inland_DE.pdf
-2020-05-03 08:00:00;280220;None;None;Web_200503_Internettext_Lage Inland_DE.pdf
-2020-05-04 08:00:00;282750;None;None;Web_200504_Internettext_Lage Inland_DE.pdf
-2020-05-05 08:00:00;286403;None;None;Web_200505_Internettext_Lage Inland_DE.pdf
-2020-05-06 08:00:00;290365;None;None;Web_200506_Internettext_Lage Inland_DE.pdf
-2020-05-07 08:00:00;296100;None;None;Web_200507_Internettext_Lage Inland_DE.pdf
-2020-05-08 08:00:00;301675;None;None;Web_200508_Internettext_Lage Inland_DE.pdf
-2020-05-09 08:00:00;306223;None;None;Web_200509_Internettext_Lage Inland_DE.pdf
-2020-05-10 08:00:00;309595;None;None;Web_200510_Internettext_Lage Inland_DE.pdf
-2020-05-11 08:00:00;312813;None;None;Web_200511_Internettext_Lage Inland_DE.pdf
-2020-05-12 08:00:00;316852;None;None;Web_200512_Internettext_Lage Inland_DE.pdf
-2020-05-13 08:00:00;322084;None;None;Web_200513_Internettext_Lage Inland_DE.pdf
-2020-05-14 07:33:00;328163;None;None;Web_200514_Internettext_Lage Inland_DE.pdf
-2020-05-15 08:00:00;334274;None;None;Web_200515_Internettext_Lage Inland_DE.pdf
-2020-05-16 11:45:00;339364;None;None;Web_200516_Internettext_Lage Inland_DE.pdf
-2020-05-17 07:50:00;343359;None;None;Web_200517_Internettext_Lage Inland_DE.pdf
-2020-05-18 05:50:00;345760;None;None;Web_200518_Internettext_Lage Inland_DE.pdf
-2020-05-19 07:30:00;350099;None;None;Web_200519_Internettext_Lage Inland_DE.pdf
-2020-05-20 08:00:00;355393;None;None;Web_200520_Internettext_Lage Inland_DE.pdf
-2020-05-21 08:30:00;361692;None;None;Web_200521_Internettext_Lage Inland_DE.pdf
-2020-05-22 08:00:00;364321;None;None;Web_200522_Internettext_Lage Inland_DE.pdf
-2020-05-23 08:00:00;367037;None;None;Web_200523_Internettext_Lage Inland_DE.pdf
-2020-05-24 08:00:00;370464;None;None;Web_200524_Internettext_Lage Inland_DE.pdf
-2020-05-25 08:00:00;372146;None;None;Web_200525_Internettext_Lage Inland_DE.pdf
-2020-05-26 08:00:00;375115;None;None;Web_200526_Internettext_Lage Inland_DE.pdf
-2020-05-27 08:00:00;380671;None;None;Web_200527_Internettext_Lage Inland_DE.pdf
-2020-05-28 08:00:00;385822;None;None;Web_200528_Internettext_Lage Inland_DE.pdf
-2020-05-29 08:00:00;390697;165;397;Web_200529_Internettext_Lage Inland_DE.pdf
-2020-05-30 08:00:00;394717;165;397;Web_200530_Internettext_Lage Inland_DE.pdf
-2020-05-31 08:00:00;397691;165;397;Web_200531_Internettext_Lage Inland_DE.pdf
-2020-06-01 08:00:00;399215;165;397;Web_200601_Internettext_Lage Inland_DE.pdf
-2020-06-02 08:00:00;400793;165;397;Web_200602_Internettext_Lage Inland_DE.pdf
-2020-06-03 08:00:00;404071;79;279;Web_200603_Internettext_Lage Inland_DE.pdf
-2020-06-04 08:00:00;409450;116;360;Web_200604_Internettext_Lage Inland_DE.pdf
-2020-06-05 08:00:00;415195;106;416;Web_200605_Internettext_Lage Inland_DE.pdf
-2020-06-06 07:30:00;419980;106;416;Web_200606_Internettext_Lage Inland_DE.pdf
-2020-06-07 08:30:00;423468;115;414;Web_200607_Internettext_Lage Inland_DE.pdf
-2020-06-08 08:00:00;425154;115;414;Web_200608_Internettext_Lage Inland_DE.pdf
-2020-06-09 08:00:00;428973;115;414;Web_200609_Internettext_Lage Inland_DE.pdf
-2020-06-10 08:00:00;435458;106;363;Web_200610_Internettext_Lage Inland_DE.pdf
-2020-06-11 08:00:00;441628;116;431;Web_200611_Internettext_Lage Inland_DE.pdf
-2020-06-12 08:00:00;447617;97;304;Web_200612_Internettext_Lage Inland_DE.pdf
-2020-06-13 08:00:00;453745;133;445;Web_200613_Internettext_Lage Inland_DE.pdf
-2020-06-14 08:45:00;458933;133;445;Web_200614_Internettext_Lage Inland_DE.pdf
-2020-06-15 08:20:00;461128;133;445;Web_200615_Internettext_Lage Inland_DE.pdf
-2020-06-16 08:20:00;465722;133;445;Web_200616_Internettext_Lage Inland_DE.pdf
-2020-06-17 08:00:00;475224;131;494;Web_200617_Internettext_Lage Inland_DE.pdf
-2020-06-18 08:00:00;485948;155;560;Web_200618_Internettext_Lage Inland_DE.pdf
-2020-06-19 08:00:00;493843;183;616;Web_200619_Internettext_Lage Inland_DE.pdf
-2020-06-20 08:00:00;502371;187;622;Web_200620_Internettext_Lage Inland_DE.pdf
-2020-06-21 08:00:00;507736;187;622;Web_200621_Internettext_Lage Inland_DE.pdf
-2020-06-22 08:00:00;509600;189;641;Web_200622_Internettext_Lage Inland_DE.pdf
-2020-06-23 08:00:00;515125;189;641;Web_200623_Internettext_Lage Inland_DE.pdf
-2020-06-24 08:00:00;523909;158;715;Web_200624_Internettext_Lage Inland_DE.pdf
-2020-06-25 08:00:00;534490;None;None;Web_200625_Internettext Lage Inland_DE.pdf
-2020-06-25 08:15:00;534490;189;641;Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
-2020-06-26 08:00:00;545177;None;None;Web_200626_Internettext Lage Inland_DE.pdf
-2020-06-27 10:15:00;555315;None;None;Web_200627_Internettext Lage Inland_DE.pdf
-2020-06-28 08:00:00;562909;None;None;Web_200628_Internettext Lage Inland_DE.pdf
-2020-06-29 08:00:00;566594;None;None;Web_200629_Internettext Lage Inland_DE.pdf
-2020-06-30 07:54:00;572664;None;None;Web_200630_Internettext Lage Inland_DE.pdf
-2020-07-01 08:00:00;583928;None;None;Web_200701_Internettext Lage Inland_DE.pdf
-2020-07-01 08:00:00;583928;351;1492;Web_200701_KW26_Internettext Woche Lage Inland_DE.pdf
-2020-07-02 08:00:00;599105;None;None;Web_200702_Internettext Lage Inland_DE.pdf
-2020-07-03 08:00:00;614283;475;2681;Web_200703_Internettext Lage Inland_DE.pdf
-2020-07-04 08:00:00;624396;531;2870;Web_200704_Internettext Lage Inland_DE.pdf
-2020-07-05 08:00:00;632315;531;2870;Web_200705_Internettext Lage Inland_DE.pdf
-2020-07-06 08:00:00;636397;533;3160;Web_200706_Internettext Lage Inland_DE.pdf
-2020-07-07 08:00:00;641982;536;3141;Web_200707_Internettext Lage Inland_DE.pdf
-2020-07-08 08:00:00;652413;620;3521;Web_200708_Internettext Lage Inland_DE.pdf
-2020-07-08 08:00:00;652413;620;3521;Web_200708_KW27_Internettext_Woche Lage Inland_DE.pdf
-2020-07-09 08:00:00;661362;628;2948;Web_200709_Internettext Lage Inland_DE.pdf
-2020-07-10 08:00:00;670484;648;2585;Web_200710_Internettext Lage Inland_DE.pdf
-2020-07-11 08:00:00;678679;640;2586;Web_200711_Internettext Lage Inland_DE.pdf
-2020-07-12 08:00:00;683873;641;2657;Web_200712_Internettext Lage Inland_DE.pdf
-2020-07-13 08:00:00;686349;642;2663;Web_200713_Internettext Lage Inland_DE.pdf
-2020-07-14 08:00:00;690701;724;3288;Web_200714_Internettext Lage Inland_DE.pdf
-2020-07-15 08:00:00;700326;640;2897;Web_200715_Internettext Lage Inland_DE.pdf
-2020-07-15 08:00:00;700326;640;2897;Web_200715_KW28_Internettext Woche Lage Inland_DE.pdf
-2020-07-16 08:00:00;708370;708;3245;Web_200716_Internettext Lage Inland_DE.pdf
-2020-07-17 08:00:00;715487;630;2328;Web_200717_Internettext Lage Inland_DE.pdf
+date,total_number_of_tests,isolated,quarantined,source_file
+2020-03-07 09:00:00,,,,Web_200307_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-08 09:30:00,,,,Web_200308_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-09 08:00:00,,,,Web_200309_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-10 09:30:00,,,,Web_200310_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-11 08:30:00,,,,Web_200311_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-12 08:00:00,,,,Web_200312_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-13 08:30:00,,,,Web_200313_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-14 08:30:00,,,,Web_200314_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-15 10:40:00,,,,Web_200315_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-16 07:30:00,,,,Web_200316_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-17 08:10:00,,,,Web_200317_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-18 08:15:00,,,,Web_200318_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-19 08:00:00,,,,Web_200319_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-20 08:00:00,,,,Web_200320_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-21 08:15:00,,,,Web_200321_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-22 08:07:00,,,,Web_200322_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-23 08:12:00,,,,Web_200323_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-24 09:00:00,,,,Web_200324_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-25 08:15:00,,,,Web_200325_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-26 08:00:00,,,,Web_200326_Internettext Lage Inland_DE.pdf
+2020-03-27 08:05:00,,,,Web_200327_Internettext Lage Inland_DE.pdf
+2020-03-28 08:00:00,,,,Web_200328_Internettext Lage Inland_DE.pdf
+2020-03-29 08:00:00,,,,Web_200329_Internettext Lage Inland_DE.pdf
+2020-03-30 08:10:00,,,,Web_200330_Internettext Lage Inland_DE.pdf
+2020-03-31 08:00:00,,,,Web_200331_Internettext Lage Inland_DE.pdf
+2020-04-01 08:00:00,,,,Web_200401_Internettext Lage Inland_DE.pdf
+2020-04-02 08:00:00,,,,Web_200402_Internettext Lage Inland_DE.pdf
+2020-04-03 08:00:00,,,,Web_200403_Internettext Lage Inland_DE.pdf
+2020-04-04 08:00:00,,,,Web_200404_Internettext Lage Inland_DE.pdf
+2020-04-05 08:00:00,,,,Web_200405_Internettext Lage Inland_DE.pdf
+2020-04-06 08:00:00,,,,Web_200406_Internettext Lage Inland_DE.pdf
+2020-04-07 08:00:00,,,,Web_200407_Internettext Lage Inland_DE.pdf
+2020-04-08 08:00:00,,,,Web_200408_Internettext Lage Inland_DE.pdf
+2020-04-09 08:00:00,,,,Web_200409_Internettext Lage Inland_DE.pdf
+2020-04-10 08:00:00,,,,Web_200410_Internettext Lage Inland_DE.pdf
+2020-04-11 08:00:00,190000,,,Web_200411_Internettext Lage Inland_DE.pdf
+2020-04-12 08:00:00,193800,,,Web_200412_Internettext Lage Inland_DE.pdf
+2020-04-13 08:00:00,196600,,,Web_200413_Internettext Lage Inland_DE.pdf
+2020-04-14 08:00:00,199000,,,Web_200414_Internettext Lage Inland_DE.pdf
+2020-04-15 08:00:00,202633,,,Web_200415_Internettext Lage Inland_DE.pdf
+2020-04-16 08:00:00,206400,,,Web_200416_Internettext_Lage Inland_DE.pdf
+2020-04-17 08:00:00,211400,,,Web_200417_Internettext_Lage Inland_DE.pdf
+2020-04-18 08:00:00,216400,,,Web_200418_Internettext_Lage Inland_DE.pdf
+2020-04-19 08:00:00,221263,,,Web_200419_Internettext_Lage Inland_DE.pdf
+2020-04-20 08:00:00,224442,,,Web_200420_Internettext_Lage Inland_DE.pdf
+2020-04-21 08:00:00,227554,,,Web_200421_Internettext_Lage Inland_DE.pdf
+2020-04-22 08:00:00,230946,,,Web_200422_Internettext Lage Inland_DE.pdf
+2020-04-23 09:30:00,235252,,,Web_200423_Internettext_Lage Inland_DE.pdf
+2020-04-24 07:30:00,240600,,,Web_200424_Internettext_Lage Inland_DE.pdf
+2020-04-25 07:30:00,245300,,,Web_200425_Internettext_Lage Inland_DE.pdf
+2020-04-26 07:30:00,249650,,,Web_200426_Internettext_Lage Inland_DE.pdf
+2020-04-27 08:00:00,252900,,,Web_200427_Internettext_Lage Inland_DE.pdf
+2020-04-28 08:00:00,256500,,,Web_200428_Internettext_Lage Inland_DE.pdf
+2020-04-29 08:00:00,260500,,,Web_200429_Internettext_Lage Inland_DE.pdf
+2020-04-30 08:00:00,266200,,,Web_200430_Internettext_Lage Inland_DE.pdf
+2020-05-01 08:00:00,271500,,,Web_200501_Internettext_Lage Inland_DE.pdf
+2020-05-02 08:00:00,276000,,,Web_200502_Internettext_Lage Inland_DE.pdf
+2020-05-03 08:00:00,280220,,,Web_200503_Internettext_Lage Inland_DE.pdf
+2020-05-04 08:00:00,282750,,,Web_200504_Internettext_Lage Inland_DE.pdf
+2020-05-05 08:00:00,286403,,,Web_200505_Internettext_Lage Inland_DE.pdf
+2020-05-06 08:00:00,290365,,,Web_200506_Internettext_Lage Inland_DE.pdf
+2020-05-07 08:00:00,296100,,,Web_200507_Internettext_Lage Inland_DE.pdf
+2020-05-08 08:00:00,301675,,,Web_200508_Internettext_Lage Inland_DE.pdf
+2020-05-09 08:00:00,306223,,,Web_200509_Internettext_Lage Inland_DE.pdf
+2020-05-10 08:00:00,309595,,,Web_200510_Internettext_Lage Inland_DE.pdf
+2020-05-11 08:00:00,312813,,,Web_200511_Internettext_Lage Inland_DE.pdf
+2020-05-12 08:00:00,316852,,,Web_200512_Internettext_Lage Inland_DE.pdf
+2020-05-13 08:00:00,322084,,,Web_200513_Internettext_Lage Inland_DE.pdf
+2020-05-14 07:33:00,328163,,,Web_200514_Internettext_Lage Inland_DE.pdf
+2020-05-15 08:00:00,334274,,,Web_200515_Internettext_Lage Inland_DE.pdf
+2020-05-16 11:45:00,339364,,,Web_200516_Internettext_Lage Inland_DE.pdf
+2020-05-17 07:50:00,343359,,,Web_200517_Internettext_Lage Inland_DE.pdf
+2020-05-18 05:50:00,345760,,,Web_200518_Internettext_Lage Inland_DE.pdf
+2020-05-19 07:30:00,350099,,,Web_200519_Internettext_Lage Inland_DE.pdf
+2020-05-20 08:00:00,355393,,,Web_200520_Internettext_Lage Inland_DE.pdf
+2020-05-21 08:30:00,361692,,,Web_200521_Internettext_Lage Inland_DE.pdf
+2020-05-22 08:00:00,364321,,,Web_200522_Internettext_Lage Inland_DE.pdf
+2020-05-23 08:00:00,367037,,,Web_200523_Internettext_Lage Inland_DE.pdf
+2020-05-24 08:00:00,370464,,,Web_200524_Internettext_Lage Inland_DE.pdf
+2020-05-25 08:00:00,372146,,,Web_200525_Internettext_Lage Inland_DE.pdf
+2020-05-26 08:00:00,375115,,,Web_200526_Internettext_Lage Inland_DE.pdf
+2020-05-27 08:00:00,380671,,,Web_200527_Internettext_Lage Inland_DE.pdf
+2020-05-28 08:00:00,385822,,,Web_200528_Internettext_Lage Inland_DE.pdf
+2020-05-29 08:00:00,390697,165,397,Web_200529_Internettext_Lage Inland_DE.pdf
+2020-05-30 08:00:00,394717,165,397,Web_200530_Internettext_Lage Inland_DE.pdf
+2020-05-31 08:00:00,397691,165,397,Web_200531_Internettext_Lage Inland_DE.pdf
+2020-06-01 08:00:00,399215,165,397,Web_200601_Internettext_Lage Inland_DE.pdf
+2020-06-02 08:00:00,400793,165,397,Web_200602_Internettext_Lage Inland_DE.pdf
+2020-06-03 08:00:00,404071,79,279,Web_200603_Internettext_Lage Inland_DE.pdf
+2020-06-04 08:00:00,409450,116,360,Web_200604_Internettext_Lage Inland_DE.pdf
+2020-06-05 08:00:00,415195,106,416,Web_200605_Internettext_Lage Inland_DE.pdf
+2020-06-06 07:30:00,419980,106,416,Web_200606_Internettext_Lage Inland_DE.pdf
+2020-06-07 08:30:00,423468,115,414,Web_200607_Internettext_Lage Inland_DE.pdf
+2020-06-08 08:00:00,425154,115,414,Web_200608_Internettext_Lage Inland_DE.pdf
+2020-06-09 08:00:00,428973,115,414,Web_200609_Internettext_Lage Inland_DE.pdf
+2020-06-10 08:00:00,435458,106,363,Web_200610_Internettext_Lage Inland_DE.pdf
+2020-06-11 08:00:00,441628,116,431,Web_200611_Internettext_Lage Inland_DE.pdf
+2020-06-12 08:00:00,447617,97,304,Web_200612_Internettext_Lage Inland_DE.pdf
+2020-06-13 08:00:00,453745,133,445,Web_200613_Internettext_Lage Inland_DE.pdf
+2020-06-14 08:45:00,458933,133,445,Web_200614_Internettext_Lage Inland_DE.pdf
+2020-06-15 08:20:00,461128,133,445,Web_200615_Internettext_Lage Inland_DE.pdf
+2020-06-16 08:20:00,465722,133,445,Web_200616_Internettext_Lage Inland_DE.pdf
+2020-06-17 08:00:00,475224,131,494,Web_200617_Internettext_Lage Inland_DE.pdf
+2020-06-18 08:00:00,485948,155,560,Web_200618_Internettext_Lage Inland_DE.pdf
+2020-06-19 08:00:00,493843,183,616,Web_200619_Internettext_Lage Inland_DE.pdf
+2020-06-20 08:00:00,502371,187,622,Web_200620_Internettext_Lage Inland_DE.pdf
+2020-06-21 08:00:00,507736,187,622,Web_200621_Internettext_Lage Inland_DE.pdf
+2020-06-22 08:00:00,509600,189,641,Web_200622_Internettext_Lage Inland_DE.pdf
+2020-06-23 08:00:00,515125,189,641,Web_200623_Internettext_Lage Inland_DE.pdf
+2020-06-24 08:00:00,523909,158,715,Web_200624_Internettext_Lage Inland_DE.pdf
+2020-06-25 08:00:00,534490,,,Web_200625_Internettext Lage Inland_DE.pdf
+2020-06-25 08:15:00,534490,189,641,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
+2020-06-26 08:00:00,545177,,,Web_200626_Internettext Lage Inland_DE.pdf
+2020-06-27 10:15:00,555315,,,Web_200627_Internettext Lage Inland_DE.pdf
+2020-06-28 08:00:00,562909,,,Web_200628_Internettext Lage Inland_DE.pdf
+2020-06-29 08:00:00,566594,,,Web_200629_Internettext Lage Inland_DE.pdf
+2020-06-30 07:54:00,572664,,,Web_200630_Internettext Lage Inland_DE.pdf
+2020-07-01 08:00:00,583928,,,Web_200701_Internettext Lage Inland_DE.pdf
+2020-07-01 08:00:00,583928,351,1492,Web_200701_KW26_Internettext Woche Lage Inland_DE.pdf
+2020-07-02 08:00:00,599105,,,Web_200702_Internettext Lage Inland_DE.pdf
+2020-07-03 08:00:00,614283,475,2681,Web_200703_Internettext Lage Inland_DE.pdf
+2020-07-04 08:00:00,624396,531,2870,Web_200704_Internettext Lage Inland_DE.pdf
+2020-07-05 08:00:00,632315,531,2870,Web_200705_Internettext Lage Inland_DE.pdf
+2020-07-06 08:00:00,636397,533,3160,Web_200706_Internettext Lage Inland_DE.pdf
+2020-07-07 08:00:00,641982,536,3141,Web_200707_Internettext Lage Inland_DE.pdf
+2020-07-08 08:00:00,652413,620,3521,Web_200708_Internettext Lage Inland_DE.pdf
+2020-07-08 08:00:00,652413,620,3521,Web_200708_KW27_Internettext_Woche Lage Inland_DE.pdf
+2020-07-09 08:00:00,661362,628,2948,Web_200709_Internettext Lage Inland_DE.pdf
+2020-07-10 08:00:00,670484,648,2585,Web_200710_Internettext Lage Inland_DE.pdf
+2020-07-11 08:00:00,678679,640,2586,Web_200711_Internettext Lage Inland_DE.pdf
+2020-07-12 08:00:00,683873,641,2657,Web_200712_Internettext Lage Inland_DE.pdf
+2020-07-13 08:00:00,686349,642,2663,Web_200713_Internettext Lage Inland_DE.pdf
+2020-07-14 08:00:00,690701,724,3288,Web_200714_Internettext Lage Inland_DE.pdf
+2020-07-15 08:00:00,700326,640,2897,Web_200715_Internettext Lage Inland_DE.pdf
+2020-07-15 08:00:00,700326,640,2897,Web_200715_KW28_Internettext Woche Lage Inland_DE.pdf
+2020-07-16 08:00:00,708370,708,3245,Web_200716_Internettext Lage Inland_DE.pdf
+2020-07-17 08:00:00,715487,630,2328,Web_200717_Internettext Lage Inland_DE.pdf
