@@ -56,14 +56,9 @@ if tot_tests is None and pcr_pos > 0:
     m = p.search(txt, pcr_pos)
     if m is not None:
         tot_tests = txt_to_int(m[1])
-#print(tot_tests)
 
 isolated = txt_to_int(search(r'(\d+)\s+(Fälle|Personen aufgrund einer laborbestätigten COVID-19 Erkrankung)? in\sIsolation', txt, index=1))
-#print(isolated)
-
 quarantined = txt_to_int(search(r'(\d+)\s?(in|Kontaktpersonen\sin\särztlich\sverordneter)? Quarantäne', txt))
-#print(quarantined)
-
 if isolated is None and quarantined is None:
     pos = txt.find('Contact Tracing')
     if pos > 0:
@@ -72,6 +67,5 @@ if isolated is None and quarantined is None:
         if m is not None:
             isolated = txt_to_int(m[1])
             quarantined = txt_to_int(m[2])
-
 
 print('{};{};{};{};{}'.format(date, tot_tests, isolated, quarantined, filename))
