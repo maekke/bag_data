@@ -2,7 +2,7 @@ name: Run scripts
 
 on:
   schedule:
-    - cron:  '0 11 * * *' # run at 13:00 ZRH time
+    - cron:  '0 * * * *' # run every hour
 
 jobs:
   parse_latest_pdf:
@@ -20,9 +20,11 @@ jobs:
     - name: install poppler-utils
       run: sudo apt-get install poppler-utils
 
-    - name: execute run-latest.sh script
+    - name: fetching latest data from BAG
       shell: bash
-      run: ./run-latest.sh
+      run: |
+        ./run-latest.sh
+        ./cleanup.sh
 
     # Commit to repo with updated file
     - name: Commit and push to repo
