@@ -1,6 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
-[[ -d tmp ]] && rm -r tmp
+if [[ -d tmp ]] ; then
+	rm -r tmp
+fi
 
 out_file="bag_data.csv"
 echo "date,total_number_of_tests,isolated,quarantined,source_file" > ${out_file}

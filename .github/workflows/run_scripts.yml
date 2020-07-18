@@ -19,6 +19,7 @@ jobs:
         python-version: 3.7
 
     - name: execute run-latest.sh script
+      shell: bash
       run: ./run-latest.sh
 
     # Commit to repo with updated file
