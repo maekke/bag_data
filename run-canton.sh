@@ -35,6 +35,8 @@ cantons=(
 )
 
 out_dir="daten_pro_kanton"
+mkdir -p ${out_dir}
+
 if [[ ${1} == "--all" ]] ; then
 	for canton in ${cantons[*]} ; do
 		echo "week,total_number_of_tests,source_file" > ${out_dir}/bag_data_${canton}.csv
@@ -42,7 +44,6 @@ if [[ ${1} == "--all" ]] ; then
 fi
 
 mkdir -p tmp
-mkdir -p ${out_dir}
 
 pushd tmp > /dev/null
 
