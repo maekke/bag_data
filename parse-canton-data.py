@@ -41,6 +41,9 @@ else:
 end = txt.find('Tabelle 4. Durchgeführte Tests nach Kalenderwoche', start)
 if start > 0 and end > start:
     tests_table = txt[start:end]
+    # the numbers are sometimes separated with spaces for >1k values
+    p = re.compile('(\d+)\s(\d+)')
+    tests_table = p.sub(r'\1\2', tests_table)
     number_of_tests = txt_to_int(search(r'(\n\s+)?{}\s+\d+\s+(\d+)'.format(canton), tests_table, index=2))
 
 print('{},{},{}'.format(week, number_of_tests or '', filename))
