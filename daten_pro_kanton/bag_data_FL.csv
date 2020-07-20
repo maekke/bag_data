@@ -1,5 +1,5 @@
-week,total_number_of_tests,source_file
-25,403,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
-26,154,Web_200701_KW26_Internettext Woche Lage Inland_DE.pdf
-27,475,Web_200708_KW27_Internettext_Woche Lage Inland_DE.pdf
-28,178,Web_200715_KW28_Internettext Woche Lage Inland_DE.pdf
+week,total_number_of_tests,positivity_rate_percent,source_file
+25,403,0.0,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
+26,154,0.0,Web_200701_KW26_Internettext Woche Lage Inland_DE.pdf
+27,475,0.4,Web_200708_KW27_Internettext_Woche Lage Inland_DE.pdf
+28,178,0.0,Web_200715_KW28_Internettext Woche Lage Inland_DE.pdf
