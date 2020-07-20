@@ -45,5 +45,6 @@ if start > 0 and end > start:
     p = re.compile('(\d+)\s(\d+)')
     tests_table = p.sub(r'\1\2', tests_table)
     number_of_tests = txt_to_int(search(r'(\n\s+)?{}\s+\d+\s+(\d+)'.format(canton), tests_table, index=2))
+    positivity_rate = txt_to_float(search(r'(\n\s+)?{}\s+.*([0-9]+\.[0-9]+)\n'.format(canton), tests_table, index=2))
 
-print('{},{},{}'.format(week, number_of_tests or '', filename))
+print('{},{},{},{}'.format(week, number_of_tests or '', positivity_rate or 0.0, filename))

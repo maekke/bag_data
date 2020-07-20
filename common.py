@@ -25,6 +25,13 @@ def txt_to_int(txt):
             return int(txt)
     return None
 
+def txt_to_float(txt):
+    if txt is not None:
+        txt = txt.replace(' ', '')
+        if len(txt) > 0:
+            return float(txt)
+    return None
+
 def parse_date(date_str):
     date_str = date_str.replace('/', '.')
     date_str = date_str.replace(',', '')

@@ -39,7 +39,7 @@ mkdir -p ${out_dir}
 
 if [[ ${1} == "--all" ]] ; then
 	for canton in ${cantons[*]} ; do
-		echo "week,total_number_of_tests,source_file" > ${out_dir}/bag_data_${canton}.csv
+		echo "week,total_number_of_tests,positivity_rate_percent,source_file" > ${out_dir}/bag_data_${canton}.csv
 	done
 fi
 
