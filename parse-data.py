@@ -31,6 +31,10 @@ if tot_tests is None and pcr_pos > 0:
     if m is not None:
         tot_tests = txt_to_int(m[1])
 
+positivity_rate = txt_to_float(search(r'Bei (\d+)% dieser Tests fiel das Resultat positiv aus', txt))
+if positivity_rate is None:
+    positivity_rate  = txt_to_float(search('Positivit.tsrate( \*+)?\s+(\d\.?\d?)[%\s]', txt, index=2))
+
 isolated = txt_to_int(search(r'(\d+)\s+(Fälle|Personen aufgrund einer laborbestätigten COVID-19 Erkrankung)? in\sIsolation', txt, index=1))
 quarantined = txt_to_int(search(r'(\d+)\s?(in|Kontaktpersonen\sin\särztlich\sverordneter)? Quarantäne', txt))
 if isolated is None and quarantined is None:
@@ -42,4 +46,4 @@ if isolated is None and quarantined is None:
             isolated = txt_to_int(m[1])
             quarantined = txt_to_int(m[2])
 
-print('{},{},{},{},{}'.format(date, tot_tests or '', isolated or '', quarantined or '', filename))
+print('{},{},{},{},{},{}'.format(date, tot_tests or '', positivity_rate or '', isolated or '', quarantined or '', filename))
