@@ -110,7 +110,7 @@ date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,source_f
 2020-06-23 08:00:00,515125,7.0,189,641,Web_200623_Internettext_Lage Inland_DE.pdf
 2020-06-24 08:00:00,523909,7.0,158,715,Web_200624_Internettext_Lage Inland_DE.pdf
 2020-06-25 08:00:00,534490,7.0,,,Web_200625_Internettext Lage Inland_DE.pdf
-2020-06-25 08:15:00,534490,,189,641,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
+2020-06-25 08:15:00,534490,7.0,189,641,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
 2020-06-26 08:00:00,545177,6.9,,,Web_200626_Internettext Lage Inland_DE.pdf
 2020-06-27 10:15:00,555315,6.8,,,Web_200627_Internettext Lage Inland_DE.pdf
 2020-06-28 08:00:00,562909,6.7,,,Web_200628_Internettext Lage Inland_DE.pdf

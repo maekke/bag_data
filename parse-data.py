@@ -33,7 +33,7 @@ if tot_tests is None and pcr_pos > 0:
 
 positivity_rate = txt_to_float(search(r'Bei (\d+)% dieser Tests fiel das Resultat positiv aus', txt))
 if positivity_rate is None:
-    positivity_rate  = txt_to_float(search('Positivit.tsrate( \*+)?\s+(\d\.?\d?)[%\s]', txt, index=2))
+    positivity_rate  = txt_to_float(search('Positivit.tsrate( \*+| \(%\))?\s+(\d\.?\d?)[%\s]', txt, index=2))
 
 isolated = txt_to_int(search(r'(\d+)\s+(Fälle|Personen aufgrund einer laborbestätigten COVID-19 Erkrankung)? in\sIsolation', txt, index=1))
 quarantined = txt_to_int(search(r'(\d+)\s?(in|Kontaktpersonen\sin\särztlich\sverordneter)? Quarantäne', txt))
