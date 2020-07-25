@@ -37,13 +37,15 @@ if positivity_rate is None:
 
 isolated = txt_to_int(search(r'(\d+)\s+(Fälle|Personen aufgrund einer laborbestätigten COVID-19 Erkrankung)? in\sIsolation', txt, index=1))
 quarantined = txt_to_int(search(r'(\d+)\s?(in|Kontaktpersonen\sin\särztlich\sverordneter)? Quarantäne', txt))
+quarantined_travel = None
 if isolated is None and quarantined is None:
     pos = txt.find('Contact Tracing')
     if pos > 0:
-        p = re.compile(r'Total.*\s+(\d+)\s+(\d+)')
+        p = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+)?')
         m = p.search(txt, pos)
         if m is not None:
-            isolated = txt_to_int(m[1])
-            quarantined = txt_to_int(m[2])
+            isolated = txt_to_int(m[2])
+            quarantined = txt_to_int(m[3])
+            quarantined_travel = txt_to_int(m[4])
 
-print('{},{},{},{},{},{}'.format(date, tot_tests or '', positivity_rate or '', isolated or '', quarantined or '', filename))
+print('{},{},{},{},{},{},{}'.format(date, tot_tests or '', positivity_rate or '', isolated or '', quarantined or '', quarantined_travel or '', filename))

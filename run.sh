@@ -10,7 +10,7 @@ if [[ -d tmp && -z ${keep_temp} ]] ; then
 fi
 
 out_file="bag_data.csv"
-echo "date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,source_file" > ${out_file}
+echo "date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,quarantined_travel,source_file" > ${out_file}
 
 mkdir -p tmp
 pushd tmp > /dev/null
