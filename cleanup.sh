@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./do-cleanup.sh bag_data.csv
+./do-cleanup.py bag_data.csv
