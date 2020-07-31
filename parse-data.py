@@ -41,7 +41,7 @@ quarantined_travel = None
 if isolated is None and quarantined is None:
     pos = txt.find('Contact Tracing')
     if pos > 0:
-        p = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+)?')
+        p = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+\s?\d+|\d+)?')
         m = p.search(txt, pos)
         if m is not None:
             isolated = txt_to_int(m[2])
