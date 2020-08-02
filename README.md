@@ -6,3 +6,5 @@ Kind of additional data to [SARS-CoV-2 Cases communicated by Swiss Cantons and P
 
 [![GitHub commit](https://img.shields.io/github/last-commit/maekke/bag_data)](https://github.com/maekke/bag_data/commits/master)
 
+## Visualizations
+Some visualizations are available [here](https://github.com/maekke/maekke.github.io)
