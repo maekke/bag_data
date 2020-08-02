@@ -26,7 +26,7 @@ fi
 pushd Deutsch > /dev/null
 
 for i in *.pdf ; do
-	python ../../parse-data.py "${i}" >> ../../${out_file}
+	python ../../scripts/parse-data.py "${i}" >> ../../${out_file}
 done
 
 popd > /dev/null

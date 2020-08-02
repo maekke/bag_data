@@ -23,8 +23,8 @@ jobs:
     - name: fetching latest data from BAG
       shell: bash
       run: |
-        ./run-latest.sh
-        ./cleanup.sh
+        ./scripts/run-latest.sh
+        ./scripts/cleanup.sh
 
     # Commit to repo with updated file
     - name: Commit and push to repo

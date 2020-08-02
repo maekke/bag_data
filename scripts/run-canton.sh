@@ -54,7 +54,7 @@ if [[ ${1} == "--all" ]] ; then
 
 	for i in *KW*.pdf ; do
 		for canton in ${cantons[*]} ; do
-			python ../../parse-canton-data.py ${canton} "${i}" >> ../../${out_dir}/bag_data_${canton}.csv
+			python ../../scripts/parse-canton-data.py ${canton} "${i}" >> ../../${out_dir}/bag_data_${canton}.csv
 		done
 	done
 
@@ -62,7 +62,7 @@ if [[ ${1} == "--all" ]] ; then
 else
 	wget https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf
 	for canton in ${cantons[*]} ; do
-		python ../parse-canton-data.py ${canton} BAG_COVID-19_Woechentliche_Lage.pdf >> ../${out_dir}/bag_data_${canton}.csv
+		python ../scripts/parse-canton-data.py ${canton} BAG_COVID-19_Woechentliche_Lage.pdf >> ../${out_dir}/bag_data_${canton}.csv
 	done
 fi
 
