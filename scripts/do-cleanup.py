@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import csv
-import datetime
 import sys
 
 
@@ -36,9 +35,8 @@ def write_file(file_name, data):
             spamwriter.writerow(value)
 
 
-
 if len(sys.argv) != 2:
     raise ValueError('provide a filename as input!')
 
-data = read_file(sys.argv[1])
-write_file(sys.argv[1], data)
+file_contents = read_file(sys.argv[1])
+write_file(sys.argv[1], file_contents)

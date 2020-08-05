@@ -39,7 +39,7 @@ if start > 0:
 else:
     start = 0
 end = txt.find('Tabelle 4. Durchgeführte Tests nach Kalenderwoche', start)
-if start > 0 and end > start:
+if end > start > 0 and end > start:
     tests_table = txt[start:end]
     # the numbers are sometimes separated with spaces for >1k values
     p = re.compile('(\d+)\s(\d+)')
