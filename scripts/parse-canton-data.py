@@ -3,7 +3,7 @@
 import sys
 import re
 
-from common import *
+import common as c
 
 if len(sys.argv) != 3:
     raise ValueError('please provide a canton and file name as input!')
@@ -11,7 +11,7 @@ if len(sys.argv) != 3:
 canton = sys.argv[1]
 filename = sys.argv[2]
 
-txt = pdf_to_text(filename)
+txt = c.pdf_to_text(filename)
 
 """
 Coronavirus-Krankheit-2019 (COVID-19)
@@ -22,7 +22,7 @@ Situationsbericht zur epidemiologischen Lage in der Schweiz
 und im F<C3><BC>rstentum Liechtenstein - Woche 28 (06.-12.07.2020)
 """
 
-week = search(r'Liechtenstein - Woche (\d+)', txt)
+week = c.search(r'Liechtenstein - Woche (\d+)', txt)
 
 """
 Canton, tests of previous-week then current-week
@@ -44,7 +44,7 @@ if end > start > 0 and end > start:
     # the numbers are sometimes separated with spaces for >1k values
     p = re.compile('(\d+)\s(\d+)')
     tests_table = p.sub(r'\1\2', tests_table)
-    number_of_tests = txt_to_int(search(r'(\n\s+)?{}\s+\d+\s+(\d+)'.format(canton), tests_table, index=2))
-    positivity_rate = txt_to_float(search(r'(\n\s+)?{}\s+.*([0-9]+\.[0-9]+)\n'.format(canton), tests_table, index=2))
+    number_of_tests = c.txt_to_int(c.search(r'(\n\s+)?{}\s+\d+\s+(\d+)'.format(canton), tests_table, index=2))
+    positivity_rate = c.txt_to_float(c.search(r'(\n\s+)?{}\s+.*([0-9]+\.[0-9]+)\n'.format(canton), tests_table, index=2))
 
 print('{},{},{},{}'.format(week, number_of_tests or '', positivity_rate or 0.0, filename))
