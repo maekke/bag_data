@@ -31,7 +31,7 @@ def write_file(file_name, data):
     with open(file_name, 'w', encoding='utf-8') as csvfile:
         spamwriter = csv.DictWriter(csvfile, ["date", "total_number_of_tests", "positivity_rate_percent", "isolated", "quarantined", "quarantined_travel", "source_file"], delimiter=',', quotechar='"', lineterminator='\n')
         spamwriter.writeheader()
-        for key, value in data.items():
+        for _, value in data.items():
             spamwriter.writerow(value)
 
 
