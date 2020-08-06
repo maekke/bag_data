@@ -1,0 +1,7 @@
+[MASTER]
+
+disable=
+	line-too-long,
+	missing-function-docstring,
+	anomalous-backslash-in-string,
+	missing-module-docstring,
