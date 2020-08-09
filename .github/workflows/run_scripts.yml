@@ -20,11 +20,17 @@ jobs:
     - name: install poppler-utils
       run: sudo apt-get install poppler-utils
 
-    - name: fetching latest data from BAG
+    - name: fetching latest daily data from BAG
       shell: bash
       run: |
         ./scripts/run-latest.sh
         ./scripts/cleanup.sh
+
+    - name: fetching latest weekly data from BAG
+      shell: bash
+      run: |
+        ./scripts/run-canton.sh
+        ./scripts/cleanup-cantons.sh
 
     # Commit to repo with updated file
     - name: Commit and push to repo
