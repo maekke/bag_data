@@ -5,7 +5,7 @@ if [[ -d tmp ]] ; then
 fi
 
 if [[ ${1} == "--all" ]] ; then
-	echo "week,total_number_of_tests,positivity_rate_percent,source_file" > ${out_dir}/bag_weekly_data.csv
+	echo "week,total_number_of_tests,positivity_rate_percent,source_file" > ../../bag_weekly_data.csv
 fi
 
 mkdir -p tmp
