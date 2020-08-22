@@ -26,11 +26,17 @@ jobs:
         ./scripts/run-latest.sh
         ./scripts/cleanup.sh
 
-    - name: fetching latest weekly data from BAG
+    - name: fetching latest weekly cantonal data from BAG
       shell: bash
       run: |
         ./scripts/run-canton.sh
         ./scripts/cleanup-cantons.sh
+
+    - name: fetching latest weekly data from BAG
+      shell: bash
+      run: |
+        ./scripts/run-weekly.sh
+        ./scripts/cleanup-weekly.sh
 
     # Commit to repo with updated file
     - name: Commit and push to repo
@@ -39,6 +45,6 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: master
         name: GitHub Action Scraper
-        commit-message: Update bag_data.csv
+        commit-message: Update data from BAG
         rebase: 'true'
 
