@@ -6,7 +6,7 @@ import sys
 import common as c
 
 
-def parse_data(filename):
+def parse_weekly_data(filename):
     txt = c.pdf_to_text(filename)
 
     week = c.search(r'Liechtenstein - Woche (\d+) ', txt)
@@ -41,4 +41,4 @@ def parse_data(filename):
 if len(sys.argv) != 2:
     raise ValueError('please provide a file name as input!')
 
-parse_data(sys.argv[1])
+parse_weekly_data(sys.argv[1])
