@@ -16,18 +16,20 @@ def parse_data(filename):
             date_time = '{} {}'.format(date, time)
     date = c.parse_date(date_time)
 
-    tot_tests = c.txt_to_int(c.search(r'insgesamt auf( über| rund| mehr als)? ([\d\s’]+)\.', txt, index=2))
+    tot_tests = c.txt_to_int(c.search(r'insgesamt auf( .ber| rund| mehr als)? ([\d\s’]+)\.', txt, index=2))
     pcr_pos = txt.find('PCR-Tests')
     if tot_tests is None and pcr_pos > 0:
-        pcr = re.compile(r'Total\s+([\d\s]+)  ')
-        res = pcr.search(txt, pcr_pos)
+        # extract the line with Total / Totale Anzahl
+        pcr_pos = txt.find('\n', pcr_pos) + 1
+        pcr_end_pos = txt.find('\n', pcr_pos)
+        line = txt[pcr_pos:pcr_end_pos]
+        # replace whitespace between numbers '937 488' -> '937488'
+        line = re.sub(r'(\d)\s(\d)', r'\1\2', line)
+        # match the value
+        pcr = re.compile(r'(Totale Anzahl|Total)\s+(\d+)\s')
+        res = pcr.match(line)
         if res is not None:
-            tot_tests = c.txt_to_int(res[1])
-    if tot_tests is None and pcr_pos > 0:
-        pcr = re.compile(r'Totale Anzahl\s+([\d\s]+)  ')
-        res = pcr.search(txt, pcr_pos)
-        if res is not None:
-            tot_tests = c.txt_to_int(res[1])
+            tot_tests = c.txt_to_int(res[2])
 
     positivity_rate = c.txt_to_float(c.search(r'Bei (\d+)% dieser Tests fiel das Resultat positiv aus', txt))
     if positivity_rate is None:
