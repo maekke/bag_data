@@ -6,16 +6,7 @@ import sys
 import common as c
 
 
-def parse_data(filename):
-    txt = c.pdf_to_text(filename)
-    date_time = c.search(r'Stand (\d.*) Uhr', txt)
-    if date_time is None:
-        date = c.search(r'Stand\: (\d{2}\.\d{2}\.20\d{2})', txt)
-        time = c.search(r'Zeit: (\d+:\d{2})', txt)
-        if date is not None and time is not None:
-            date_time = '{} {}'.format(date, time)
-    date = c.parse_date(date_time)
-
+def parse_pcr_tot_tests(txt):
     tot_tests = c.txt_to_int(c.search(r'insgesamt auf( .ber| rund| mehr als)? ([\d\s’]+)\.', txt, index=2))
     pcr_pos = txt.find('PCR-Tests')
     if tot_tests is None and pcr_pos > 0:
@@ -30,6 +21,20 @@ def parse_data(filename):
         res = pcr.match(line)
         if res is not None:
             tot_tests = c.txt_to_int(res[2])
+    return tot_tests
+
+
+def parse_data(filename):
+    txt = c.pdf_to_text(filename)
+    date_time = c.search(r'Stand (\d.*) Uhr', txt)
+    if date_time is None:
+        date = c.search(r'Stand\: (\d{2}\.\d{2}\.20\d{2})', txt)
+        time = c.search(r'Zeit: (\d+:\d{2})', txt)
+        if date is not None and time is not None:
+            date_time = '{} {}'.format(date, time)
+    date = c.parse_date(date_time)
+
+    tot_tests = parse_pcr_tot_tests(txt)
 
     positivity_rate = c.txt_to_float(c.search(r'Bei (\d+)% dieser Tests fiel das Resultat positiv aus', txt))
     if positivity_rate is None:
