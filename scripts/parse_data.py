@@ -22,7 +22,7 @@ def parse_pcr_tot_tests(txt):
         if res is not None:
             tot_tests = c.txt_to_int(res[2])
             return tot_tests
-        res = re.search(r'Total durchgef.hrte Tests\s+\d+\s+\+?(\d+)\s', line)
+        res = re.search(r'Total durchgef.hrte Tests\s+(\d+)\s+\+?\d+\s', line)
         if res is not None:
             tot_tests = c.txt_to_int(res[1])
     return tot_tests
