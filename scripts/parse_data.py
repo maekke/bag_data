@@ -52,8 +52,8 @@ def parse_data(filename):
     if isolated is None or quarantined is None:
         pos = txt.find('Contact Tracing')
         if pos > 0:
-            # pcr = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+\s?\d+|\d+)?')
-            pcr = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+|\d+\s?\d+)?')
+            pcr = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+\s?\d+|\d+)?')
+            #pcr = re.compile(r'Total\s?(\*+|\(%\))?\s+(\d+)\s+(\d+)\s+(\d+|\d+\s?\d+)?')
             res = pcr.search(txt, pos)
             if res is not None:
                 isolated = c.txt_to_int(res[2])
