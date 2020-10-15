@@ -46,7 +46,7 @@ def parse_canton_data(canton, filename):
         pcr = re.compile(r'(\d+)\s(\d+)')
         tests_table = pcr.sub(r'\1\2', tests_table)
         number_of_tests = c.txt_to_int(c.search(r'(\n\s+)?{}\s+\d+\s+(\d+)'.format(canton), tests_table, index=2))
-        positivity_rate = c.txt_to_float(c.search(r'(\n\s+)?{}\s+.*([0-9]+\.[0-9]+)\n'.format(canton), tests_table, index=2))
+        positivity_rate = c.txt_to_float(c.search(r'(\n\s+)?{}\s+.*\s([0-9]+\.[0-9]+)\n'.format(canton), tests_table, index=2))
 
     print('{},{},{},{}'.format(week, number_of_tests or '', positivity_rate or 0.0, filename))
 
