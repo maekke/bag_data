@@ -8,7 +8,7 @@ import common as c
 
 def parse_pcr_tot_tests(txt):
     tot_tests = c.txt_to_int(c.search(r'insgesamt auf( .ber| rund| mehr als)? ([\d\s.]+)\.', txt, index=2))
-    pcr_pos = txt.find('PCR-Tests')
+    pcr_pos = txt.find('Tests')
     if tot_tests is None and pcr_pos > 0:
         # extract the line with Total / Totale Anzahl
         pcr_pos = txt.find('\n', pcr_pos) + 1
