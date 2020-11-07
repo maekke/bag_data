@@ -20,6 +20,9 @@ jobs:
     - name: install poppler-utils
       run: sudo apt-get install poppler-utils
 
+    - name: install pip packages
+      run: pip install bs4 requests
+
     - name: fetching latest daily data from BAG
       shell: bash
       run: |
