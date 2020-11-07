@@ -66,12 +66,12 @@ def get_isolated_quarantined(soup):
     return date, isolated, quarantined, travel_quarantined
 
 
-url = 'https://www.covid19.admin.ch/en/overview?ovTime=total'
-content = download_text(url)
+URL = 'https://www.covid19.admin.ch/en/overview?ovTime=total'
+content = download_text(URL)
 soup = BeautifulSoup(content, 'html.parser')
 
 date, total_tests, positivity_rate = get_tests(soup)
 date_iso, isolated, quarantined, travel_quarantined = get_isolated_quarantined(soup)
 assert date == date_iso
 
-print(f'{date},{total_tests},{positivity_rate},{isolated},{quarantined},{travel_quarantined},{url}')
+print(f'{date},{total_tests},{positivity_rate},{isolated},{quarantined},{travel_quarantined},{URL}')
