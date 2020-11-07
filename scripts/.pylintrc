@@ -5,3 +5,4 @@ disable=
 	missing-function-docstring,
 	anomalous-backslash-in-string,
 	missing-module-docstring,
+	redefined-outer-name,
