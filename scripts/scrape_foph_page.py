@@ -38,7 +38,7 @@ def get_tests(soup):
         if c.search(r'^(Total since)', row.find_all('th')[0].text):
             total_tests = strip_number(row.find_all('td')[0].text)
         if c.search(r'^(Share of positive tests since)', row.find_all('th')[0].text):
-            positivity_rate = c.search(r'(\d+\,\d+)%', row.find_all('td')[0].text)
+            positivity_rate = c.search(r'(\d+.*)%', row.find_all('td')[0].text)
             positivity_rate = positivity_rate.replace(',', '.')
 
     return date, total_tests, positivity_rate
