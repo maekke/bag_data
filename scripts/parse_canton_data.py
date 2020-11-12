@@ -33,6 +33,8 @@ def parse_canton_data(canton, filename):
     start = txt.find('Anzahl PCR-Tests in der Schweiz')
     if start == -1:
         start = txt.find('Anzahl durchgeführte PCR-Tests in der Schweiz')
+    if start == -1:
+        start = txt.find('Anzahl durchgeführte Tests in der Schweiz')
     if start > 0:
         start = txt.find(r' AG ', start)
     else:
