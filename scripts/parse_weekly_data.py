@@ -12,7 +12,7 @@ def parse_weekly_data(filename):
     week = c.search(r'Liechtenstein - Woche (\d+) ', txt)
 
     tot_tests = None
-    pcr_pos = txt.find('PCR-Tests')
+    pcr_pos = txt.find('Durchgeführte Tests')
     if pcr_pos > 0:
         pcr_pos = txt.find('\n', pcr_pos) + 1
         pcr_end_pos = txt.find('\n', pcr_pos)
