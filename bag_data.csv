@@ -236,3 +236,4 @@ date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,quaranti
 2020-11-12 07:12:00,2318688,11.5,44507,41663,1593,https://www.covid19.admin.ch/en/overview?ovTime=total
 2020-11-13 07:08:00,2351453,11.7,31907,36573,1048,https://www.covid19.admin.ch/en/overview?ovTime=total
 2020-11-16 07:19:00,2411237,11.9,41692,43494,1195,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-17 07:25:00,2430732,12,42401,43531,1221,https://www.covid19.admin.ch/en/overview?ovTime=total
