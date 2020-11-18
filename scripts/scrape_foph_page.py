@@ -72,6 +72,6 @@ soup = BeautifulSoup(content, 'html.parser')
 
 date, total_tests, positivity_rate = get_tests(soup)
 date_iso, isolated, quarantined, travel_quarantined = get_isolated_quarantined(soup)
-assert date == date_iso
+assert date.date() == date_iso.date(), f'date mismatch: {date} != {date_iso}'
 
 print(f'{date},{total_tests},{positivity_rate},{isolated},{quarantined},{travel_quarantined},{URL}')
