@@ -228,7 +228,7 @@ date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,quaranti
 2020-11-02 08:00:00,2022249,9.3,39883,31903,10884,COVID-19_Epidemiologische_Lage_Schweiz.pdf
 2020-11-03 08:00:00,2044406,9.5,39951,31906,10651,COVID-19_Epidemiologische_Lage_Schweiz.pdf
 2020-11-04 08:00:00,2080775,9.9,35424,35570,7047,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-11-05 08:00:00,2119502,,46069,42679,8127,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-11-05 08:00:00,2119502,10.2,46069,42679,8127,COVID-19_Epidemiologische_Lage_Schweiz.pdf
 2020-11-06 07:13:00,2157721,10.5,36528,35309,2951,https://www.covid19.admin.ch/en/overview?ovTime=total
 2020-11-09 07:03:00,2231552,11,44970,40582,3794,https://www.covid19.admin.ch/en/overview?ovTime=total
 2020-11-10 07:27:00,2254471,11.1,45020,40582,3772,https://www.covid19.admin.ch/en/overview?ovTime=total
