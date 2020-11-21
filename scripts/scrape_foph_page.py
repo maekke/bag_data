@@ -32,16 +32,23 @@ def get_tests(soup):
 
     total_tests = ''
     positivity_rate = ''
+    total_antigen_tests = ''
+    antigen_positivity_rate = ''
 
     table = title.find_next('table')
     for row in table.find_all('tr'):
         if c.search(r'^(PCR tests)', row.find_all('th')[0].text):
             total_tests = strip_number(row.find_all('td')[0].text)
+        if c.search(r'^(Antigen tests)', row.find_all('th')[0].text):
+            total_antigen_tests = strip_number(row.find_all('td')[0].text)
         if c.search(r'^(Share of positive PCR tests)', row.find_all('th')[0].text):
             positivity_rate = c.search(r'(\d+.*)%', row.find_all('td')[0].text)
             positivity_rate = positivity_rate.replace(',', '.')
+        if c.search(r'^(Share of positive antigen tests)', row.find_all('th')[0].text):
+            antigen_positivity_rate = c.search(r'(\d+.*)%', row.find_all('td')[0].text)
+            antigen_positivity_rate = antigen_positivity_rate.replace(',', '.')
 
-    return date, total_tests, positivity_rate
+    return date, total_tests, positivity_rate, total_antigen_tests, antigen_positivity_rate
 
 
 def get_isolated_quarantined(soup):
@@ -70,8 +77,8 @@ URL = 'https://www.covid19.admin.ch/en/overview?ovTime=total'
 content = download_text(URL)
 soup = BeautifulSoup(content, 'html.parser')
 
-date, total_tests, positivity_rate = get_tests(soup)
+date, total_tests, positivity_rate, total_antigen_tests, antigen_positivity_rate = get_tests(soup)
 date_iso, isolated, quarantined, travel_quarantined = get_isolated_quarantined(soup)
 assert date.date() == date_iso.date(), f'date mismatch: {date} != {date_iso}'
 
-print(f'{date},{total_tests},{positivity_rate},{isolated},{quarantined},{travel_quarantined},{URL}')
+print(f'{date},{total_tests},{positivity_rate},{isolated},{quarantined},{travel_quarantined},{total_antigen_tests},{antigen_positivity_rate },{URL}')
