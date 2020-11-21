@@ -1,241 +1,241 @@
-date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,quarantined_travel,source_file
-2020-03-07 09:00:00,,,,,,Web_200307_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-08 09:30:00,,,,,,Web_200308_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-09 08:00:00,,,,,,Web_200309_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-10 09:30:00,,,,,,Web_200310_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-11 08:30:00,,,,,,Web_200311_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-12 08:00:00,,,,,,Web_200312_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-13 08:30:00,,,,,,Web_200313_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-14 08:30:00,,,,,,Web_200314_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-15 10:40:00,,,,,,Web_200315_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-16 07:30:00,,,,,,Web_200316_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-17 08:10:00,,,,,,Web_200317_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-18 08:15:00,,,,,,Web_200318_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-19 08:00:00,,,,,,Web_200319_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-20 08:00:00,,,,,,Web_200320_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-21 08:15:00,,,,,,Web_200321_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-22 08:07:00,,,,,,Web_200322_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-23 08:12:00,,,,,,Web_200323_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-24 09:00:00,,,,,,Web_200324_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-25 08:15:00,,,,,,Web_200325_Epidemiologische Lage Schweiz_DE.pdf
-2020-03-26 08:00:00,,,,,,Web_200326_Internettext Lage Inland_DE.pdf
-2020-03-27 08:05:00,,,,,,Web_200327_Internettext Lage Inland_DE.pdf
-2020-03-28 08:00:00,,,,,,Web_200328_Internettext Lage Inland_DE.pdf
-2020-03-29 08:00:00,,,,,,Web_200329_Internettext Lage Inland_DE.pdf
-2020-03-30 08:10:00,,,,,,Web_200330_Internettext Lage Inland_DE.pdf
-2020-03-31 08:00:00,,,,,,Web_200331_Internettext Lage Inland_DE.pdf
-2020-04-01 08:00:00,,,,,,Web_200401_Internettext Lage Inland_DE.pdf
-2020-04-02 08:00:00,,,,,,Web_200402_Internettext Lage Inland_DE.pdf
-2020-04-03 08:00:00,,,,,,Web_200403_Internettext Lage Inland_DE.pdf
-2020-04-04 08:00:00,,,,,,Web_200404_Internettext Lage Inland_DE.pdf
-2020-04-05 08:00:00,,,,,,Web_200405_Internettext Lage Inland_DE.pdf
-2020-04-06 08:00:00,,,,,,Web_200406_Internettext Lage Inland_DE.pdf
-2020-04-07 08:00:00,,,,,,Web_200407_Internettext Lage Inland_DE.pdf
-2020-04-08 08:00:00,,,,,,Web_200408_Internettext Lage Inland_DE.pdf
-2020-04-09 08:00:00,,,,,,Web_200409_Internettext Lage Inland_DE.pdf
-2020-04-10 08:00:00,,,,,,Web_200410_Internettext Lage Inland_DE.pdf
-2020-04-11 08:00:00,190000,15.0,,,,Web_200411_Internettext Lage Inland_DE.pdf
-2020-04-12 08:00:00,193800,15.0,,,,Web_200412_Internettext Lage Inland_DE.pdf
-2020-04-13 08:00:00,196600,15.0,,,,Web_200413_Internettext Lage Inland_DE.pdf
-2020-04-14 08:00:00,199000,15.0,,,,Web_200414_Internettext Lage Inland_DE.pdf
-2020-04-15 08:00:00,202633,15.0,,,,Web_200415_Internettext Lage Inland_DE.pdf
-2020-04-16 08:00:00,206400,15.0,,,,Web_200416_Internettext_Lage Inland_DE.pdf
-2020-04-17 08:00:00,211400,15.0,,,,Web_200417_Internettext_Lage Inland_DE.pdf
-2020-04-18 08:00:00,216400,15.0,,,,Web_200418_Internettext_Lage Inland_DE.pdf
-2020-04-19 08:00:00,221263,15.0,,,,Web_200419_Internettext_Lage Inland_DE.pdf
-2020-04-20 08:00:00,224442,14.0,,,,Web_200420_Internettext_Lage Inland_DE.pdf
-2020-04-21 08:00:00,227554,14.0,,,,Web_200421_Internettext_Lage Inland_DE.pdf
-2020-04-22 08:00:00,230946,14.0,,,,Web_200422_Internettext Lage Inland_DE.pdf
-2020-04-23 09:30:00,235252,14.0,,,,Web_200423_Internettext_Lage Inland_DE.pdf
-2020-04-24 07:30:00,240600,14.0,,,,Web_200424_Internettext_Lage Inland_DE.pdf
-2020-04-25 07:30:00,245300,14.0,,,,Web_200425_Internettext_Lage Inland_DE.pdf
-2020-04-26 07:30:00,249650,14.0,,,,Web_200426_Internettext_Lage Inland_DE.pdf
-2020-04-27 08:00:00,252900,13.0,,,,Web_200427_Internettext_Lage Inland_DE.pdf
-2020-04-28 08:00:00,256500,13.0,,,,Web_200428_Internettext_Lage Inland_DE.pdf
-2020-04-29 08:00:00,260500,13.0,,,,Web_200429_Internettext_Lage Inland_DE.pdf
-2020-04-30 08:00:00,266200,13.0,,,,Web_200430_Internettext_Lage Inland_DE.pdf
-2020-05-01 08:00:00,271500,13.0,,,,Web_200501_Internettext_Lage Inland_DE.pdf
-2020-05-02 08:00:00,276000,13.0,,,,Web_200502_Internettext_Lage Inland_DE.pdf
-2020-05-03 08:00:00,280220,13.0,,,,Web_200503_Internettext_Lage Inland_DE.pdf
-2020-05-04 08:00:00,282750,12.0,,,,Web_200504_Internettext_Lage Inland_DE.pdf
-2020-05-05 08:00:00,286403,12.0,,,,Web_200505_Internettext_Lage Inland_DE.pdf
-2020-05-06 08:00:00,290365,12.0,,,,Web_200506_Internettext_Lage Inland_DE.pdf
-2020-05-07 08:00:00,296100,12.0,,,,Web_200507_Internettext_Lage Inland_DE.pdf
-2020-05-08 08:00:00,301675,12.0,,,,Web_200508_Internettext_Lage Inland_DE.pdf
-2020-05-09 08:00:00,306223,12.0,,,,Web_200509_Internettext_Lage Inland_DE.pdf
-2020-05-10 08:00:00,309595,12.0,,,,Web_200510_Internettext_Lage Inland_DE.pdf
-2020-05-11 08:00:00,312813,11.0,,,,Web_200511_Internettext_Lage Inland_DE.pdf
-2020-05-12 08:00:00,316852,11.0,,,,Web_200512_Internettext_Lage Inland_DE.pdf
-2020-05-13 08:00:00,322084,11.0,,,,Web_200513_Internettext_Lage Inland_DE.pdf
-2020-05-14 07:33:00,328163,11.0,,,,Web_200514_Internettext_Lage Inland_DE.pdf
-2020-05-15 08:00:00,334274,11.0,,,,Web_200515_Internettext_Lage Inland_DE.pdf
-2020-05-16 11:45:00,339364,11.0,,,,Web_200516_Internettext_Lage Inland_DE.pdf
-2020-05-17 07:50:00,343359,11.0,,,,Web_200517_Internettext_Lage Inland_DE.pdf
-2020-05-18 05:50:00,345760,11.0,,,,Web_200518_Internettext_Lage Inland_DE.pdf
-2020-05-19 07:30:00,350099,10.0,,,,Web_200519_Internettext_Lage Inland_DE.pdf
-2020-05-20 08:00:00,355393,10.0,,,,Web_200520_Internettext_Lage Inland_DE.pdf
-2020-05-21 08:30:00,361692,10.0,,,,Web_200521_Internettext_Lage Inland_DE.pdf
-2020-05-22 08:00:00,364321,10.0,,,,Web_200522_Internettext_Lage Inland_DE.pdf
-2020-05-23 08:00:00,367037,10.0,,,,Web_200523_Internettext_Lage Inland_DE.pdf
-2020-05-24 08:00:00,370464,10.0,,,,Web_200524_Internettext_Lage Inland_DE.pdf
-2020-05-25 08:00:00,372146,10.0,,,,Web_200525_Internettext_Lage Inland_DE.pdf
-2020-05-26 08:00:00,375115,10.0,,,,Web_200526_Internettext_Lage Inland_DE.pdf
-2020-05-27 08:00:00,380671,10.0,,,,Web_200527_Internettext_Lage Inland_DE.pdf
-2020-05-28 08:00:00,385822,10.0,,,,Web_200528_Internettext_Lage Inland_DE.pdf
-2020-05-29 08:00:00,390697,10.0,165,397,,Web_200529_Internettext_Lage Inland_DE.pdf
-2020-05-30 08:00:00,394717,9.0,165,397,,Web_200530_Internettext_Lage Inland_DE.pdf
-2020-05-31 08:00:00,397691,9.0,165,397,,Web_200531_Internettext_Lage Inland_DE.pdf
-2020-06-01 08:00:00,399215,9.0,165,397,,Web_200601_Internettext_Lage Inland_DE.pdf
-2020-06-02 08:00:00,400793,9.0,165,397,,Web_200602_Internettext_Lage Inland_DE.pdf
-2020-06-03 08:00:00,404071,9.0,79,279,,Web_200603_Internettext_Lage Inland_DE.pdf
-2020-06-04 08:00:00,409450,9.0,116,360,,Web_200604_Internettext_Lage Inland_DE.pdf
-2020-06-05 08:00:00,415195,9.0,106,416,,Web_200605_Internettext_Lage Inland_DE.pdf
-2020-06-06 07:30:00,419980,9.0,106,416,,Web_200606_Internettext_Lage Inland_DE.pdf
-2020-06-07 08:30:00,423468,9.0,115,414,,Web_200607_Internettext_Lage Inland_DE.pdf
-2020-06-08 08:00:00,425154,9.0,115,414,,Web_200608_Internettext_Lage Inland_DE.pdf
-2020-06-09 08:00:00,428973,9.0,115,414,,Web_200609_Internettext_Lage Inland_DE.pdf
-2020-06-10 08:00:00,435458,9.0,106,363,,Web_200610_Internettext_Lage Inland_DE.pdf
-2020-06-11 08:00:00,441628,8.0,116,431,,Web_200611_Internettext_Lage Inland_DE.pdf
-2020-06-12 08:00:00,447617,8.0,97,304,,Web_200612_Internettext_Lage Inland_DE.pdf
-2020-06-13 08:00:00,453745,8.0,133,445,,Web_200613_Internettext_Lage Inland_DE.pdf
-2020-06-14 08:45:00,458933,8.0,133,445,,Web_200614_Internettext_Lage Inland_DE.pdf
-2020-06-15 08:20:00,461128,8.0,133,445,,Web_200615_Internettext_Lage Inland_DE.pdf
-2020-06-16 08:20:00,465722,8.0,133,445,,Web_200616_Internettext_Lage Inland_DE.pdf
-2020-06-17 08:00:00,475224,8.0,131,494,,Web_200617_Internettext_Lage Inland_DE.pdf
-2020-06-18 08:00:00,485948,8.0,155,560,,Web_200618_Internettext_Lage Inland_DE.pdf
-2020-06-19 08:00:00,493843,8.0,183,616,,Web_200619_Internettext_Lage Inland_DE.pdf
-2020-06-20 08:00:00,502371,7.0,187,622,,Web_200620_Internettext_Lage Inland_DE.pdf
-2020-06-21 08:00:00,507736,7.0,187,622,,Web_200621_Internettext_Lage Inland_DE.pdf
-2020-06-22 08:00:00,509600,7.0,189,641,,Web_200622_Internettext_Lage Inland_DE.pdf
-2020-06-23 08:00:00,515125,7.0,189,641,,Web_200623_Internettext_Lage Inland_DE.pdf
-2020-06-24 08:00:00,523909,7.0,158,715,,Web_200624_Internettext_Lage Inland_DE.pdf
-2020-06-25 08:15:00,534490,7.0,189,641,,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
-2020-06-26 08:00:00,545177,6.9,,,,Web_200626_Internettext Lage Inland_DE.pdf
-2020-06-27 10:15:00,555315,6.8,,,,Web_200627_Internettext Lage Inland_DE.pdf
-2020-06-28 08:00:00,562909,6.7,,,,Web_200628_Internettext Lage Inland_DE.pdf
-2020-06-29 08:00:00,566594,6.7,,,,Web_200629_Internettext Lage Inland_DE.pdf
-2020-06-30 07:54:00,572664,6.6,,,,Web_200630_Internettext Lage Inland_DE.pdf
-2020-07-01 08:00:00,583928,6.5,351,1492,,Web_200701_Internettext Lage Inland_DE.pdf
-2020-07-02 08:00:00,599105,6.4,,,,Web_200702_Internettext Lage Inland_DE.pdf
-2020-07-03 08:00:00,614283,6.3,475,2681,,Web_200703_Internettext Lage Inland_DE.pdf
-2020-07-04 08:00:00,624396,6.2,531,2870,,Web_200704_Internettext Lage Inland_DE.pdf
-2020-07-05 08:00:00,632315,6.1,531,2870,,Web_200705_Internettext Lage Inland_DE.pdf
-2020-07-06 08:00:00,636397,6.1,533,3160,,Web_200706_Internettext Lage Inland_DE.pdf
-2020-07-07 08:00:00,641982,6.0,536,3141,,Web_200707_Internettext Lage Inland_DE.pdf
-2020-07-08 08:00:00,652413,6.0,620,3521,,Web_200708_Internettext Lage Inland_DE.pdf
-2020-07-09 08:00:00,661362,5.9,628,2948,,Web_200709_Internettext Lage Inland_DE.pdf
-2020-07-10 08:00:00,670484,5.8,648,2585,,Web_200710_Internettext Lage Inland_DE.pdf
-2020-07-11 08:00:00,678679,5.8,640,2586,,Web_200711_Internettext Lage Inland_DE.pdf
-2020-07-12 08:00:00,683873,5.8,641,2657,,Web_200712_Internettext Lage Inland_DE.pdf
-2020-07-13 08:00:00,686349,5.7,642,2663,,Web_200713_Internettext Lage Inland_DE.pdf
-2020-07-14 08:00:00,690701,5.7,724,3288,,Web_200714_Internettext Lage Inland_DE.pdf
-2020-07-15 08:00:00,700326,5.7,640,2897,,Web_200715_Internettext Lage Inland_DE.pdf
-2020-07-16 08:00:00,708370,5.6,708,3245,,Web_200716_Internettext Lage Inland_DE.pdf
-2020-07-17 08:00:00,715487,5.6,630,2328,,Web_200717_Internettext Lage Inland_DE.pdf
-2020-07-18 08:00:00,722116,5.6,620,2608,,Web_200718_Internettext Lage Inland_DE.pdf
-2020-07-19 08:20:00,726806,5.5,615,2622,,Web_200719_Internettext Lage Inland_DE.pdf
-2020-07-20 08:00:00,728292,5.5,612,2614,,Web_200720_Internettext Lage Inland_DE.pdf
-2020-07-21 08:00:00,732835,5.5,612,2632,,Web_200721_Internettext Lage Inland_DE.pdf
-2020-07-22 08:00:00,739616,5.5,767,2962,,Web_200722_Internettext Lage Inland_DE.pdf
-2020-07-23 08:00:00,746658,5.5,814,2832,,Web_200723_Internettext Lage Inland_DE.pdf
-2020-07-24 08:00:00,753333,5.4,668,2335,5565,Web_200724_Internettext Lage Inland_DE.pdf
-2020-07-25 08:00:00,758836,5.4,739,2450,6402,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-07-26 08:00:00,762929,5.4,739,2448,6464,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-07-27 08:00:00,764894,5.4,874,2989,7736,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-07-28 08:00:00,769622,5.4,870,2982,7926,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-07-29 08:00:00,777631,5.4,964,3108,9164,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-07-30 08:00:00,784786,5.3,958,3096,8912,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-07-31 08:00:00,791725,5.3,1019,2896,12020,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-01 08:00:00,797933,5.3,1041,2877,12388,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-02 08:00:00,801742,5.3,1041,2877,12388,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-03 08:00:00,803725,5.3,1041,2877,12388,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-04 08:00:00,808031,5.3,1064,2930,12514,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-05 08:00:00,815937,5.3,1370,4083,16269,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-06 08:00:00,822764,5.2,1390,4114,16264,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-07 08:00:00,829158,5.2,1294,4027,13992,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-08 08:00:00,835724,5.2,1301,4071,13856,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-09 08:00:00,840409,5.2,1301,4071,13856,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-10 08:00:00,842509,5.2,1301,4071,13856,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-11 08:00:00,847325,5.2,1331,4212,13994,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-12 08:00:00,854885,5.2,1331,4446,18244,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-13 08:00:00,861555,5.2,1357,4550,18086,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-14 08:00:00,868886,5.2,1535,4553,15928,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-15 08:00:00,876065,5.2,1568,4632,16131,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-16 08:00:00,881683,5.2,1568,4632,16127,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-17 08:00:00,884472,5.2,1568,4632,16125,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-18 08:00:00,890289,5.1,1570,4754,16260,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-19 08:00:00,901074,5.1,1853,6532,21546,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-20 08:00:00,910283,5.1,1877,6667,21421,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-21 08:00:00,920489,5.1,1572,4821,14181,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-22 08:00:00,930416,5.1,1739,5742,15037,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-23 08:00:00,937488,5.1,1739,5769,15008,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-24 08:00:00,941798,5.1,1739,5740,15033,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-25 08:00:00,948439,5.1,1729,5702,15044,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-26 08:00:00,962895,5.0,1973,7971,15285,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-27 08:00:00,975563,5.0,2150,8498,16081,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-28 08:00:00,988383,5.0,1525,4255,11019,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-29 08:00:00,1000884,5.0,1737,5024,11885,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-30 08:00:00,1010948,4.9,1802,5415,12191,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-08-31 08:00:00,1015686,4.9,1802,5415,12191,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-01 08:00:00,1023203,4.9,1795,5589,12396,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-02 08:00:00,1039741,4.9,1745,4962,10578,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-03 08:00:00,1054652,4.9,1764,5001,10622,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-04 08:00:00,1070910,4.8,1412,4032,7633,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-05 08:00:00,1085932,4.8,1641,4924,7559,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-06 09:15:00,1098540,4.8,1641,4924,7559,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-07 08:00:00,1103149,4.8,1641,4924,7559,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-08 08:00:00,1111984,4.8,1640,4845,7593,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-09 08:00:00,1129549,4.7,2063,5208,8496,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-10 08:00:00,1145949,4.7,2098,5278,10090,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-11 08:00:00,1162236,4.7,1891,5306,5373,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-12 08:00:00,1173798,4.7,1917,5473,5334,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-13 08:00:00,1186824,4.7,1917,5473,5334,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-14 08:00:00,1193180,4.7,1918,5483,5343,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-15 08:00:00,1203997,4.7,1926,5491,5353,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-16 08:00:00,1221858,4.7,2034,5737,7075,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-17 08:00:00,1237621,4.7,2258,6455,8097,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-18 08:00:00,1251614,4.6,2048,5598,7571,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-21 08:00:00,1279247,4.6,2380,6102,7731,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-22 08:00:00,1287196,4.6,2355,6033,7846,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-23 08:00:00,1300092,4.6,3610,7351,13115,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-24 08:00:00,1313944,4.6,3685,7630,13497,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-25 08:00:00,1326290,4.6,2182,4755,10148,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-28 08:00:00,1349159,4.6,3740,8896,12589,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-29 08:00:00,1355118,4.6,3300,6569,10530,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-09-30 08:00:00,1367695,4.6,3354,6373,13726,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-01 08:00:00,1380083,4.6,3352,6380,13709,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-02 08:00:00,1391498,4.6,1912,5454,11117,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-05 08:00:00,1417260,4.6,2927,6989,13443,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-06 08:00:00,1424477,4.7,2958,7006,12189,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-07 08:00:00,1439599,4.7,3662,9194,18391,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-08 08:00:00,1455665,4.7,3810,9618,19211,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-09 08:00:00,1470894,4.8,3773,9443,14357,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-12 08:00:00,1506450,5.0,4083,9973,14793,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-13 08:00:00,1516021,5.0,4338,10788,13339,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-14 08:00:00,1536725,5.2,5250,11093,14664,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-15 08:00:00,1556475,5.3,5279,11066,14741,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-16 08:00:00,1578103,5.4,7311,12964,12232,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-19 08:00:00,1632288,5.8,7367,13039,12015,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-20 08:00:00,1646512,5.9,7407,12933,11942,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-21 08:00:00,1674840,6.2,11824,16368,13941,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-22 08:00:00,1701377,6.4,13513,17479,15826,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-23 08:00:00,1726438,6.7,17888,19215,15380,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-26 08:00:00,1808464,7.4,18497,19867,15799,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-27 08:00:00,1829173,7.7,18497,19867,15799,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-28 08:00:00,1859945,7.9,24355,23270,12099,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-29 08:00:00,1895175,8.3,31334,24948,13594,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-10-30 08:00:00,1933386,8.6,31410,26333,7438,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-11-02 08:00:00,2022249,9.3,39883,31903,10884,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-11-03 08:00:00,2044406,9.5,39951,31906,10651,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-11-04 08:00:00,2080775,9.9,35424,35570,7047,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-11-05 08:00:00,2119502,10.2,46069,42679,8127,COVID-19_Epidemiologische_Lage_Schweiz.pdf
-2020-11-06 07:13:00,2157721,10.5,36528,35309,2951,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-09 07:03:00,2231552,11,44970,40582,3794,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-10 07:27:00,2254471,11.1,45020,40582,3772,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-11 07:17:00,2287029,11.4,42916,38714,1590,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-12 07:12:00,2318688,11.5,44507,41663,1593,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-13 07:08:00,2351453,11.7,31907,36573,1048,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-16 07:19:00,2411237,11.9,41692,43494,1195,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-17 07:25:00,2430732,12,42401,43531,1221,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-18 06:52:00,2460961,12.2,27718,31661,912,https://www.covid19.admin.ch/en/overview?ovTime=total
-2020-11-19 06:53:00,2487943,12.3,37652,38687,1061,https://www.covid19.admin.ch/en/overview?ovTime=total
+date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,quarantined_travel,total_number_of_antigen_tests,positivity_rate_antigen_tests,source_file
+2020-03-07 09:00:00,,,,,,,,Web_200307_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-08 09:30:00,,,,,,,,Web_200308_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-09 08:00:00,,,,,,,,Web_200309_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-10 09:30:00,,,,,,,,Web_200310_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-11 08:30:00,,,,,,,,Web_200311_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-12 08:00:00,,,,,,,,Web_200312_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-13 08:30:00,,,,,,,,Web_200313_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-14 08:30:00,,,,,,,,Web_200314_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-15 10:40:00,,,,,,,,Web_200315_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-16 07:30:00,,,,,,,,Web_200316_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-17 08:10:00,,,,,,,,Web_200317_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-18 08:15:00,,,,,,,,Web_200318_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-19 08:00:00,,,,,,,,Web_200319_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-20 08:00:00,,,,,,,,Web_200320_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-21 08:15:00,,,,,,,,Web_200321_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-22 08:07:00,,,,,,,,Web_200322_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-23 08:12:00,,,,,,,,Web_200323_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-24 09:00:00,,,,,,,,Web_200324_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-25 08:15:00,,,,,,,,Web_200325_Epidemiologische Lage Schweiz_DE.pdf
+2020-03-26 08:00:00,,,,,,,,Web_200326_Internettext Lage Inland_DE.pdf
+2020-03-27 08:05:00,,,,,,,,Web_200327_Internettext Lage Inland_DE.pdf
+2020-03-28 08:00:00,,,,,,,,Web_200328_Internettext Lage Inland_DE.pdf
+2020-03-29 08:00:00,,,,,,,,Web_200329_Internettext Lage Inland_DE.pdf
+2020-03-30 08:10:00,,,,,,,,Web_200330_Internettext Lage Inland_DE.pdf
+2020-03-31 08:00:00,,,,,,,,Web_200331_Internettext Lage Inland_DE.pdf
+2020-04-01 08:00:00,,,,,,,,Web_200401_Internettext Lage Inland_DE.pdf
+2020-04-02 08:00:00,,,,,,,,Web_200402_Internettext Lage Inland_DE.pdf
+2020-04-03 08:00:00,,,,,,,,Web_200403_Internettext Lage Inland_DE.pdf
+2020-04-04 08:00:00,,,,,,,,Web_200404_Internettext Lage Inland_DE.pdf
+2020-04-05 08:00:00,,,,,,,,Web_200405_Internettext Lage Inland_DE.pdf
+2020-04-06 08:00:00,,,,,,,,Web_200406_Internettext Lage Inland_DE.pdf
+2020-04-07 08:00:00,,,,,,,,Web_200407_Internettext Lage Inland_DE.pdf
+2020-04-08 08:00:00,,,,,,,,Web_200408_Internettext Lage Inland_DE.pdf
+2020-04-09 08:00:00,,,,,,,,Web_200409_Internettext Lage Inland_DE.pdf
+2020-04-10 08:00:00,,,,,,,,Web_200410_Internettext Lage Inland_DE.pdf
+2020-04-11 08:00:00,190000,15.0,,,,,,Web_200411_Internettext Lage Inland_DE.pdf
+2020-04-12 08:00:00,193800,15.0,,,,,,Web_200412_Internettext Lage Inland_DE.pdf
+2020-04-13 08:00:00,196600,15.0,,,,,,Web_200413_Internettext Lage Inland_DE.pdf
+2020-04-14 08:00:00,199000,15.0,,,,,,Web_200414_Internettext Lage Inland_DE.pdf
+2020-04-15 08:00:00,202633,15.0,,,,,,Web_200415_Internettext Lage Inland_DE.pdf
+2020-04-16 08:00:00,206400,15.0,,,,,,Web_200416_Internettext_Lage Inland_DE.pdf
+2020-04-17 08:00:00,211400,15.0,,,,,,Web_200417_Internettext_Lage Inland_DE.pdf
+2020-04-18 08:00:00,216400,15.0,,,,,,Web_200418_Internettext_Lage Inland_DE.pdf
+2020-04-19 08:00:00,221263,15.0,,,,,,Web_200419_Internettext_Lage Inland_DE.pdf
+2020-04-20 08:00:00,224442,14.0,,,,,,Web_200420_Internettext_Lage Inland_DE.pdf
+2020-04-21 08:00:00,227554,14.0,,,,,,Web_200421_Internettext_Lage Inland_DE.pdf
+2020-04-22 08:00:00,230946,14.0,,,,,,Web_200422_Internettext Lage Inland_DE.pdf
+2020-04-23 09:30:00,235252,14.0,,,,,,Web_200423_Internettext_Lage Inland_DE.pdf
+2020-04-24 07:30:00,240600,14.0,,,,,,Web_200424_Internettext_Lage Inland_DE.pdf
+2020-04-25 07:30:00,245300,14.0,,,,,,Web_200425_Internettext_Lage Inland_DE.pdf
+2020-04-26 07:30:00,249650,14.0,,,,,,Web_200426_Internettext_Lage Inland_DE.pdf
+2020-04-27 08:00:00,252900,13.0,,,,,,Web_200427_Internettext_Lage Inland_DE.pdf
+2020-04-28 08:00:00,256500,13.0,,,,,,Web_200428_Internettext_Lage Inland_DE.pdf
+2020-04-29 08:00:00,260500,13.0,,,,,,Web_200429_Internettext_Lage Inland_DE.pdf
+2020-04-30 08:00:00,266200,13.0,,,,,,Web_200430_Internettext_Lage Inland_DE.pdf
+2020-05-01 08:00:00,271500,13.0,,,,,,Web_200501_Internettext_Lage Inland_DE.pdf
+2020-05-02 08:00:00,276000,13.0,,,,,,Web_200502_Internettext_Lage Inland_DE.pdf
+2020-05-03 08:00:00,280220,13.0,,,,,,Web_200503_Internettext_Lage Inland_DE.pdf
+2020-05-04 08:00:00,282750,12.0,,,,,,Web_200504_Internettext_Lage Inland_DE.pdf
+2020-05-05 08:00:00,286403,12.0,,,,,,Web_200505_Internettext_Lage Inland_DE.pdf
+2020-05-06 08:00:00,290365,12.0,,,,,,Web_200506_Internettext_Lage Inland_DE.pdf
+2020-05-07 08:00:00,296100,12.0,,,,,,Web_200507_Internettext_Lage Inland_DE.pdf
+2020-05-08 08:00:00,301675,12.0,,,,,,Web_200508_Internettext_Lage Inland_DE.pdf
+2020-05-09 08:00:00,306223,12.0,,,,,,Web_200509_Internettext_Lage Inland_DE.pdf
+2020-05-10 08:00:00,309595,12.0,,,,,,Web_200510_Internettext_Lage Inland_DE.pdf
+2020-05-11 08:00:00,312813,11.0,,,,,,Web_200511_Internettext_Lage Inland_DE.pdf
+2020-05-12 08:00:00,316852,11.0,,,,,,Web_200512_Internettext_Lage Inland_DE.pdf
+2020-05-13 08:00:00,322084,11.0,,,,,,Web_200513_Internettext_Lage Inland_DE.pdf
+2020-05-14 07:33:00,328163,11.0,,,,,,Web_200514_Internettext_Lage Inland_DE.pdf
+2020-05-15 08:00:00,334274,11.0,,,,,,Web_200515_Internettext_Lage Inland_DE.pdf
+2020-05-16 11:45:00,339364,11.0,,,,,,Web_200516_Internettext_Lage Inland_DE.pdf
+2020-05-17 07:50:00,343359,11.0,,,,,,Web_200517_Internettext_Lage Inland_DE.pdf
+2020-05-18 05:50:00,345760,11.0,,,,,,Web_200518_Internettext_Lage Inland_DE.pdf
+2020-05-19 07:30:00,350099,10.0,,,,,,Web_200519_Internettext_Lage Inland_DE.pdf
+2020-05-20 08:00:00,355393,10.0,,,,,,Web_200520_Internettext_Lage Inland_DE.pdf
+2020-05-21 08:30:00,361692,10.0,,,,,,Web_200521_Internettext_Lage Inland_DE.pdf
+2020-05-22 08:00:00,364321,10.0,,,,,,Web_200522_Internettext_Lage Inland_DE.pdf
+2020-05-23 08:00:00,367037,10.0,,,,,,Web_200523_Internettext_Lage Inland_DE.pdf
+2020-05-24 08:00:00,370464,10.0,,,,,,Web_200524_Internettext_Lage Inland_DE.pdf
+2020-05-25 08:00:00,372146,10.0,,,,,,Web_200525_Internettext_Lage Inland_DE.pdf
+2020-05-26 08:00:00,375115,10.0,,,,,,Web_200526_Internettext_Lage Inland_DE.pdf
+2020-05-27 08:00:00,380671,10.0,,,,,,Web_200527_Internettext_Lage Inland_DE.pdf
+2020-05-28 08:00:00,385822,10.0,,,,,,Web_200528_Internettext_Lage Inland_DE.pdf
+2020-05-29 08:00:00,390697,10.0,165,397,,,,Web_200529_Internettext_Lage Inland_DE.pdf
+2020-05-30 08:00:00,394717,9.0,165,397,,,,Web_200530_Internettext_Lage Inland_DE.pdf
+2020-05-31 08:00:00,397691,9.0,165,397,,,,Web_200531_Internettext_Lage Inland_DE.pdf
+2020-06-01 08:00:00,399215,9.0,165,397,,,,Web_200601_Internettext_Lage Inland_DE.pdf
+2020-06-02 08:00:00,400793,9.0,165,397,,,,Web_200602_Internettext_Lage Inland_DE.pdf
+2020-06-03 08:00:00,404071,9.0,79,279,,,,Web_200603_Internettext_Lage Inland_DE.pdf
+2020-06-04 08:00:00,409450,9.0,116,360,,,,Web_200604_Internettext_Lage Inland_DE.pdf
+2020-06-05 08:00:00,415195,9.0,106,416,,,,Web_200605_Internettext_Lage Inland_DE.pdf
+2020-06-06 07:30:00,419980,9.0,106,416,,,,Web_200606_Internettext_Lage Inland_DE.pdf
+2020-06-07 08:30:00,423468,9.0,115,414,,,,Web_200607_Internettext_Lage Inland_DE.pdf
+2020-06-08 08:00:00,425154,9.0,115,414,,,,Web_200608_Internettext_Lage Inland_DE.pdf
+2020-06-09 08:00:00,428973,9.0,115,414,,,,Web_200609_Internettext_Lage Inland_DE.pdf
+2020-06-10 08:00:00,435458,9.0,106,363,,,,Web_200610_Internettext_Lage Inland_DE.pdf
+2020-06-11 08:00:00,441628,8.0,116,431,,,,Web_200611_Internettext_Lage Inland_DE.pdf
+2020-06-12 08:00:00,447617,8.0,97,304,,,,Web_200612_Internettext_Lage Inland_DE.pdf
+2020-06-13 08:00:00,453745,8.0,133,445,,,,Web_200613_Internettext_Lage Inland_DE.pdf
+2020-06-14 08:45:00,458933,8.0,133,445,,,,Web_200614_Internettext_Lage Inland_DE.pdf
+2020-06-15 08:20:00,461128,8.0,133,445,,,,Web_200615_Internettext_Lage Inland_DE.pdf
+2020-06-16 08:20:00,465722,8.0,133,445,,,,Web_200616_Internettext_Lage Inland_DE.pdf
+2020-06-17 08:00:00,475224,8.0,131,494,,,,Web_200617_Internettext_Lage Inland_DE.pdf
+2020-06-18 08:00:00,485948,8.0,155,560,,,,Web_200618_Internettext_Lage Inland_DE.pdf
+2020-06-19 08:00:00,493843,8.0,183,616,,,,Web_200619_Internettext_Lage Inland_DE.pdf
+2020-06-20 08:00:00,502371,7.0,187,622,,,,Web_200620_Internettext_Lage Inland_DE.pdf
+2020-06-21 08:00:00,507736,7.0,187,622,,,,Web_200621_Internettext_Lage Inland_DE.pdf
+2020-06-22 08:00:00,509600,7.0,189,641,,,,Web_200622_Internettext_Lage Inland_DE.pdf
+2020-06-23 08:00:00,515125,7.0,189,641,,,,Web_200623_Internettext_Lage Inland_DE.pdf
+2020-06-24 08:00:00,523909,7.0,158,715,,,,Web_200624_Internettext_Lage Inland_DE.pdf
+2020-06-25 08:15:00,534490,7.0,189,641,,,,Web_200625_KW25_Internettext Woche Lage Inland_DE.pdf
+2020-06-26 08:00:00,545177,6.9,,,,,,Web_200626_Internettext Lage Inland_DE.pdf
+2020-06-27 10:15:00,555315,6.8,,,,,,Web_200627_Internettext Lage Inland_DE.pdf
+2020-06-28 08:00:00,562909,6.7,,,,,,Web_200628_Internettext Lage Inland_DE.pdf
+2020-06-29 08:00:00,566594,6.7,,,,,,Web_200629_Internettext Lage Inland_DE.pdf
+2020-06-30 07:54:00,572664,6.6,,,,,,Web_200630_Internettext Lage Inland_DE.pdf
+2020-07-01 08:00:00,583928,6.5,351,1492,,,,Web_200701_Internettext Lage Inland_DE.pdf
+2020-07-02 08:00:00,599105,6.4,,,,,,Web_200702_Internettext Lage Inland_DE.pdf
+2020-07-03 08:00:00,614283,6.3,475,2681,,,,Web_200703_Internettext Lage Inland_DE.pdf
+2020-07-04 08:00:00,624396,6.2,531,2870,,,,Web_200704_Internettext Lage Inland_DE.pdf
+2020-07-05 08:00:00,632315,6.1,531,2870,,,,Web_200705_Internettext Lage Inland_DE.pdf
+2020-07-06 08:00:00,636397,6.1,533,3160,,,,Web_200706_Internettext Lage Inland_DE.pdf
+2020-07-07 08:00:00,641982,6.0,536,3141,,,,Web_200707_Internettext Lage Inland_DE.pdf
+2020-07-08 08:00:00,652413,6.0,620,3521,,,,Web_200708_Internettext Lage Inland_DE.pdf
+2020-07-09 08:00:00,661362,5.9,628,2948,,,,Web_200709_Internettext Lage Inland_DE.pdf
+2020-07-10 08:00:00,670484,5.8,648,2585,,,,Web_200710_Internettext Lage Inland_DE.pdf
+2020-07-11 08:00:00,678679,5.8,640,2586,,,,Web_200711_Internettext Lage Inland_DE.pdf
+2020-07-12 08:00:00,683873,5.8,641,2657,,,,Web_200712_Internettext Lage Inland_DE.pdf
+2020-07-13 08:00:00,686349,5.7,642,2663,,,,Web_200713_Internettext Lage Inland_DE.pdf
+2020-07-14 08:00:00,690701,5.7,724,3288,,,,Web_200714_Internettext Lage Inland_DE.pdf
+2020-07-15 08:00:00,700326,5.7,640,2897,,,,Web_200715_Internettext Lage Inland_DE.pdf
+2020-07-16 08:00:00,708370,5.6,708,3245,,,,Web_200716_Internettext Lage Inland_DE.pdf
+2020-07-17 08:00:00,715487,5.6,630,2328,,,,Web_200717_Internettext Lage Inland_DE.pdf
+2020-07-18 08:00:00,722116,5.6,620,2608,,,,Web_200718_Internettext Lage Inland_DE.pdf
+2020-07-19 08:20:00,726806,5.5,615,2622,,,,Web_200719_Internettext Lage Inland_DE.pdf
+2020-07-20 08:00:00,728292,5.5,612,2614,,,,Web_200720_Internettext Lage Inland_DE.pdf
+2020-07-21 08:00:00,732835,5.5,612,2632,,,,Web_200721_Internettext Lage Inland_DE.pdf
+2020-07-22 08:00:00,739616,5.5,767,2962,,,,Web_200722_Internettext Lage Inland_DE.pdf
+2020-07-23 08:00:00,746658,5.5,814,2832,,,,Web_200723_Internettext Lage Inland_DE.pdf
+2020-07-24 08:00:00,753333,5.4,668,2335,5565,,,Web_200724_Internettext Lage Inland_DE.pdf
+2020-07-25 08:00:00,758836,5.4,739,2450,6402,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-07-26 08:00:00,762929,5.4,739,2448,6464,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-07-27 08:00:00,764894,5.4,874,2989,7736,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-07-28 08:00:00,769622,5.4,870,2982,7926,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-07-29 08:00:00,777631,5.4,964,3108,9164,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-07-30 08:00:00,784786,5.3,958,3096,8912,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-07-31 08:00:00,791725,5.3,1019,2896,12020,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-01 08:00:00,797933,5.3,1041,2877,12388,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-02 08:00:00,801742,5.3,1041,2877,12388,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-03 08:00:00,803725,5.3,1041,2877,12388,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-04 08:00:00,808031,5.3,1064,2930,12514,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-05 08:00:00,815937,5.3,1370,4083,16269,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-06 08:00:00,822764,5.2,1390,4114,16264,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-07 08:00:00,829158,5.2,1294,4027,13992,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-08 08:00:00,835724,5.2,1301,4071,13856,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-09 08:00:00,840409,5.2,1301,4071,13856,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-10 08:00:00,842509,5.2,1301,4071,13856,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-11 08:00:00,847325,5.2,1331,4212,13994,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-12 08:00:00,854885,5.2,1331,4446,18244,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-13 08:00:00,861555,5.2,1357,4550,18086,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-14 08:00:00,868886,5.2,1535,4553,15928,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-15 08:00:00,876065,5.2,1568,4632,16131,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-16 08:00:00,881683,5.2,1568,4632,16127,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-17 08:00:00,884472,5.2,1568,4632,16125,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-18 08:00:00,890289,5.1,1570,4754,16260,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-19 08:00:00,901074,5.1,1853,6532,21546,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-20 08:00:00,910283,5.1,1877,6667,21421,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-21 08:00:00,920489,5.1,1572,4821,14181,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-22 08:00:00,930416,5.1,1739,5742,15037,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-23 08:00:00,937488,5.1,1739,5769,15008,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-24 08:00:00,941798,5.1,1739,5740,15033,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-25 08:00:00,948439,5.1,1729,5702,15044,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-26 08:00:00,962895,5.0,1973,7971,15285,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-27 08:00:00,975563,5.0,2150,8498,16081,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-28 08:00:00,988383,5.0,1525,4255,11019,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-29 08:00:00,1000884,5.0,1737,5024,11885,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-30 08:00:00,1010948,4.9,1802,5415,12191,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-08-31 08:00:00,1015686,4.9,1802,5415,12191,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-01 08:00:00,1023203,4.9,1795,5589,12396,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-02 08:00:00,1039741,4.9,1745,4962,10578,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-03 08:00:00,1054652,4.9,1764,5001,10622,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-04 08:00:00,1070910,4.8,1412,4032,7633,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-05 08:00:00,1085932,4.8,1641,4924,7559,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-06 09:15:00,1098540,4.8,1641,4924,7559,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-07 08:00:00,1103149,4.8,1641,4924,7559,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-08 08:00:00,1111984,4.8,1640,4845,7593,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-09 08:00:00,1129549,4.7,2063,5208,8496,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-10 08:00:00,1145949,4.7,2098,5278,10090,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-11 08:00:00,1162236,4.7,1891,5306,5373,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-12 08:00:00,1173798,4.7,1917,5473,5334,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-13 08:00:00,1186824,4.7,1917,5473,5334,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-14 08:00:00,1193180,4.7,1918,5483,5343,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-15 08:00:00,1203997,4.7,1926,5491,5353,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-16 08:00:00,1221858,4.7,2034,5737,7075,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-17 08:00:00,1237621,4.7,2258,6455,8097,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-18 08:00:00,1251614,4.6,2048,5598,7571,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-21 08:00:00,1279247,4.6,2380,6102,7731,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-22 08:00:00,1287196,4.6,2355,6033,7846,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-23 08:00:00,1300092,4.6,3610,7351,13115,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-24 08:00:00,1313944,4.6,3685,7630,13497,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-25 08:00:00,1326290,4.6,2182,4755,10148,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-28 08:00:00,1349159,4.6,3740,8896,12589,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-29 08:00:00,1355118,4.6,3300,6569,10530,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-09-30 08:00:00,1367695,4.6,3354,6373,13726,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-01 08:00:00,1380083,4.6,3352,6380,13709,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-02 08:00:00,1391498,4.6,1912,5454,11117,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-05 08:00:00,1417260,4.6,2927,6989,13443,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-06 08:00:00,1424477,4.7,2958,7006,12189,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-07 08:00:00,1439599,4.7,3662,9194,18391,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-08 08:00:00,1455665,4.7,3810,9618,19211,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-09 08:00:00,1470894,4.8,3773,9443,14357,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-12 08:00:00,1506450,5.0,4083,9973,14793,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-13 08:00:00,1516021,5.0,4338,10788,13339,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-14 08:00:00,1536725,5.2,5250,11093,14664,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-15 08:00:00,1556475,5.3,5279,11066,14741,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-16 08:00:00,1578103,5.4,7311,12964,12232,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-19 08:00:00,1632288,5.8,7367,13039,12015,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-20 08:00:00,1646512,5.9,7407,12933,11942,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-21 08:00:00,1674840,6.2,11824,16368,13941,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-22 08:00:00,1701377,6.4,13513,17479,15826,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-23 08:00:00,1726438,6.7,17888,19215,15380,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-26 08:00:00,1808464,7.4,18497,19867,15799,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-27 08:00:00,1829173,7.7,18497,19867,15799,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-28 08:00:00,1859945,7.9,24355,23270,12099,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-29 08:00:00,1895175,8.3,31334,24948,13594,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-10-30 08:00:00,1933386,8.6,31410,26333,7438,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-11-02 08:00:00,2022249,9.3,39883,31903,10884,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-11-03 08:00:00,2044406,9.5,39951,31906,10651,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-11-04 08:00:00,2080775,9.9,35424,35570,7047,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-11-05 08:00:00,2119502,10.2,46069,42679,8127,,,COVID-19_Epidemiologische_Lage_Schweiz.pdf
+2020-11-06 07:13:00,2157721,10.5,36528,35309,2951,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-09 07:03:00,2231552,11,44970,40582,3794,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-10 07:27:00,2254471,11.1,45020,40582,3772,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-11 07:17:00,2287029,11.4,42916,38714,1590,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-12 07:12:00,2318688,11.5,44507,41663,1593,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-13 07:08:00,2351453,11.7,31907,36573,1048,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-16 07:19:00,2411237,11.9,41692,43494,1195,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-17 07:25:00,2430732,12,42401,43531,1221,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-18 06:52:00,2460961,12.2,27718,31661,912,,,https://www.covid19.admin.ch/en/overview?ovTime=total
+2020-11-19 06:53:00,2487943,12.3,37652,38687,1061,,,https://www.covid19.admin.ch/en/overview?ovTime=total
