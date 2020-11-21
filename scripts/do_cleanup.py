@@ -21,7 +21,7 @@ def read_file(file_name):
             if date not in data:
                 data[date] = row
             else:
-                for column in ["total_number_of_tests", "positivity_rate_percent", "isolated", "quarantined", "quarantined_travel"]:
+                for column in ["total_number_of_tests", "positivity_rate_percent", "isolated", "quarantined", "quarantined_travel", "total_number_of_antigen_tests", "positivity_rate_antigen_tests"]:
                     update_value_if_needed(data, date, row, column)
                 update_value_if_needed(data, date, row, "source_file", check_mismatch=False)
     return data
@@ -29,7 +29,7 @@ def read_file(file_name):
 
 def write_file(file_name, data):
     with open(file_name, 'w', encoding='utf-8') as csvfile:
-        spamwriter = csv.DictWriter(csvfile, ["date", "total_number_of_tests", "positivity_rate_percent", "isolated", "quarantined", "quarantined_travel", "source_file"], delimiter=',', quotechar='"', lineterminator='\n')
+        spamwriter = csv.DictWriter(csvfile, ["date", "total_number_of_tests", "positivity_rate_percent", "isolated", "quarantined", "quarantined_travel", "total_number_of_antigen_tests", "positivity_rate_antigen_tests", "source_file"], delimiter=',', quotechar='"', lineterminator='\n')
         spamwriter.writeheader()
         for _, value in data.items():
             spamwriter.writerow(value)
