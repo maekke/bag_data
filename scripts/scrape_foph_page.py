@@ -39,12 +39,12 @@ def get_tests(soup):
     for row in table.find_all('tr'):
         if c.search(r'^(PCR tests)', row.find_all('th')[0].text):
             total_tests = strip_number(row.find_all('td')[0].text)
-        if c.search(r'^(Antigen tests)', row.find_all('th')[0].text):
+        if c.search(r'^(Rapid antigen tests)', row.find_all('th')[0].text):
             total_antigen_tests = strip_number(row.find_all('td')[0].text)
         if c.search(r'^(Share of positive PCR tests)', row.find_all('th')[0].text):
             positivity_rate = c.search(r'(\d+.*)%', row.find_all('td')[0].text)
             positivity_rate = positivity_rate.replace(',', '.')
-        if c.search(r'^(Share of positive antigen tests)', row.find_all('th')[0].text):
+        if c.search(r'^(Share of positive rapid antigen tests)', row.find_all('th')[0].text):
             antigen_positivity_rate = c.search(r'(\d+.*)%', row.find_all('td')[0].text)
             antigen_positivity_rate = antigen_positivity_rate.replace(',', '.')
 
