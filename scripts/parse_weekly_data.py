@@ -14,7 +14,7 @@ def parse_weekly_data(filename):
     tot_tests = None
     pcr_pos = txt.find('Durchgeführte Tests')
     if pcr_pos > 0:
-        pcr_pos = txt.find('\n', pcr_pos) + 1
+        pcr_pos = txt.find('Total', pcr_pos)
         pcr_end_pos = txt.find('\n', pcr_pos)
         assert pcr_end_pos > pcr_pos
         line = txt[pcr_pos:pcr_end_pos]
@@ -26,9 +26,9 @@ def parse_weekly_data(filename):
     positivity_rate = None
     positivity_pos = txt.find('\nPositivit')
     if positivity_pos == -1:
-        positivity_pos = txt.find('\nAnteil positive Tests')
+        positivity_pos = txt.find('\nAnteil positiver Tests')
     if positivity_pos > 0:
-        positivity_pos += 1
+        positivity_pos = txt.find('PCR', positivity_pos)
         positivity_end_pos = txt.find('\n', positivity_pos)
         assert positivity_end_pos > positivity_pos
         line = txt[positivity_pos:positivity_end_pos]
