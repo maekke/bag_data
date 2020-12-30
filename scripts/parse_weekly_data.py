@@ -36,8 +36,7 @@ def parse_weekly_data(filename):
         positivity_rate = line.split(' ')[-1]
         positivity_rate = c.txt_to_float(positivity_rate.replace('%', ''))
 
-    print('{},{},{},{}'.format(week, tot_tests or '', positivity_rate or '',
-                               filename))
+    print(f"{week},{tot_tests or ''},{positivity_rate or ''},{filename}")
 
 
 if len(sys.argv) != 2:
