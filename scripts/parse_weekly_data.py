@@ -10,7 +10,8 @@ def parse_weekly_data(filename):
     txt = c.pdf_to_text(filename)
     txt = re.sub(r'(\d)\s(\d)', r'\1\2', txt)
 
-    week = c.search(r'Liechtenstein - Woche (\d+) ', txt)
+    year = c.search(r'Stand:\s\d+\.\d+\.(\d{4})', txt)
+    week = int(c.search(r'Liechtenstein - Woche (\d+) ', txt))
 
     tot_tests = ''
     tot_antigen_tests = ''
@@ -59,7 +60,7 @@ def parse_weekly_data(filename):
         except:
             pass
 
-    print(f'{week},{tot_tests},{positivity_rate},{tot_antigen_tests},{antigen_positivity_rate},{filename}')
+    print(f'{year},{week},{tot_tests},{positivity_rate},{tot_antigen_tests},{antigen_positivity_rate},{filename}')
 
 
 if len(sys.argv) != 2:

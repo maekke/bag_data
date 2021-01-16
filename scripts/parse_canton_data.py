@@ -19,7 +19,8 @@ def parse_canton_data(canton, filename):
     und im F<C3><BC>rstentum Liechtenstein - Woche 28 (06.-12.07.2020)
     """
 
-    week = c.search(r'Liechtenstein - Woche (\d+)', txt)
+    year = c.search(r'Stand:\s\d+\.\d+\.(\d{4})', txt)
+    week = int(c.search(r'Liechtenstein - Woche (\d+)', txt))
 
     """
     Canton, tests of previous-week then current-week
@@ -50,7 +51,7 @@ def parse_canton_data(canton, filename):
         number_of_tests = c.txt_to_int(c.search(r'(\n\s+)?{}\s+\d+\s+(\d+)'.format(canton), tests_table, index=2))
         positivity_rate = c.txt_to_float(c.search(r'(\n\s+)?{}\s+.*\s([0-9]+\.[0-9]+)\n'.format(canton), tests_table, index=2))
 
-    print('{},{},{},{}'.format(week, number_of_tests or '', positivity_rate or 0.0, filename))
+    print(f'{year},{week},{number_of_tests},{positivity_rate},{filename}')
 
 
 if len(sys.argv) != 3:
