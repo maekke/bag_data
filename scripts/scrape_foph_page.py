@@ -27,7 +27,7 @@ def strip_number(number):
 def get_tests(soup):
     title = soup.find('h3', string=re.compile(r'Tests and share of positive tests'))
     par = title.find_next('p')
-    date = c.search(r'Status: (\d+\.\d+\.20\d{2}, \d{2}\.\d{2})h', par.string)
+    date = c.search(r'Status: (\d+\.\d+\.20\d{2}, \d{2}\.\d{2})h', par.text)
     date = parse_date(date)
 
     total_tests = ''
@@ -54,7 +54,7 @@ def get_tests(soup):
 def get_isolated_quarantined(soup):
     title = soup.find('h3', string=re.compile(r'Contact tracing'))
     par = title.find_next('p')
-    date = c.search(r'Status: (\d+\.\d+\.20\d{2}, \d{2}\.\d{2})h', par.string)
+    date = c.search(r'Status: (\d+\.\d+\.20\d{2}, \d{2}\.\d{2})h', par.text)
     date = parse_date(date)
 
     isolated = ''
