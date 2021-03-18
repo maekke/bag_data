@@ -28,6 +28,7 @@ year,week,total_number_of_tests,positivity_rate_percent,source_file
 2020,51,411,18.5,BAG_COVID-19_Woechentliche_Lage.pdf
 2020,53,417,14.4,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,1,414,20.5,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,10,754,5.0,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,2,449,26.3,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,3,498,21.3,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,4,441,6.6,BAG_COVID-19_Woechentliche_Lage.pdf
