@@ -36,6 +36,8 @@ def parse_canton_data(canton, filename):
         start = txt.find('Anzahl durchgeführte PCR-Tests in der Schweiz')
     if start == -1:
         start = txt.find('Anzahl durchgeführte Tests in der Schweiz')
+    if start == -1:
+        start = txt.find('Anzahl gemeldeter Tests, Anzahl Tests pro')
     if start > 0:
         start = txt.find(r' AG ', start)
     else:
@@ -43,6 +45,10 @@ def parse_canton_data(canton, filename):
     end = txt.find('Tabelle 4. Durchgeführte Tests nach Kalenderwoche', start)
     if end == -1:
         end = txt.find('Die Altersverteilung der', start)
+    if end == -1:
+        end = txt.find('Die Anzahl durchgeführter Tests', start)
+        if end >= 0:
+            end -= 1
     if end > start > 0 and end > start:
         tests_table = txt[start:end]
         # the numbers are sometimes separated with spaces for >1k values
