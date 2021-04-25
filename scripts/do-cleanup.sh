@@ -9,6 +9,6 @@ out_file="cleanup.csv"
 
 head -n 1 "${in_file}" > ${out_file}
 # make each line unique based on the date+time column
-tail -n +2 "${in_file}" | sort -n -u -t, -k1,2 >> ${out_file}
+tail -n +2 "${in_file}" | sort --field-separator=',' -n -k 1,1 -k 2,2 >> ${out_file}
 
 mv ${out_file} "${in_file}"
