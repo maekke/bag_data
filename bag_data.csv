@@ -333,3 +333,17 @@ date,total_number_of_tests,positivity_rate_percent,isolated,quarantined,quaranti
 2021-03-31 08:38:00,5001104,11.2,13983,23618,3523,1011862,8.8,https://www.covid19.admin.ch/en/overview?ovTime=total
 2021-04-01 07:52:00,5040722,11.1,15086,25864,3845,1028873,8.8,https://www.covid19.admin.ch/en/overview?ovTime=total
 2021-04-02 09:50:00,5077299,11.1,14956,25674,3576,1049189,8.7,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-06 07:51:00,5139424,11,14854,25439,3623,1087140,8.5,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-07 07:48:00,5158523,11,13380,23952,4090,1101783,8.5,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-08 07:50:00,5186035,11,13406,23961,4108,1114330,8.5,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-09 07:48:00,5212732,11,12724,22705,2808,1126664,8.4,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-12 07:49:00,5264697,10.9,14789,24281,3130,1147674,8.4,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-13 07:54:00,5279756,10.9,14785,23953,3358,1158062,8.3,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-14 07:52:00,5307510,10.9,12122,21809,4876,1167312,8.3,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-15 07:51:00,5329794,10.9,16607,28650,6417,1176047,8.3,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-16 07:43:00,5353602,10.9,17070,29784,6081,1184551,8.3,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-19 07:56:00,5406498,10.9,17850,31185,6053,1203460,8.2,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-20 07:51:00,5420952,10.9,17840,31162,6039,1212818,8.2,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-21 07:51:00,5443440,10.9,16285,26359,5664,1220189,8.2,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-22 07:48:00,5464887,10.9,16864,27469,5856,1227621,8.2,https://www.covid19.admin.ch/en/overview?ovTime=total
+2021-04-23 07:47:00,5487857,10.9,23290,24769,3737,1235837,8.2,https://www.covid19.admin.ch/en/overview?ovTime=total
