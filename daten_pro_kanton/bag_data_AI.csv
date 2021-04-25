@@ -28,12 +28,6 @@ year,week,total_number_of_tests,positivity_rate_percent,source_file
 2020,51,205,13.7,BAG_COVID-19_Woechentliche_Lage.pdf
 2020,53,140,34.3,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,1,208,15.9,BAG_COVID-19_Woechentliche_Lage.pdf
-2021,10,610,3.8,BAG_COVID-19_Woechentliche_Lage.pdf
-2021,11,513,1.5,BAG_COVID-19_Woechentliche_Lage.pdf
-2021,12,690,5.9,BAG_COVID-19_Woechentliche_Lage.pdf
-2021,13,592,7.7,BAG_COVID-19_Woechentliche_Lage.pdf
-2021,14,564,0.7,BAG_COVID-19_Woechentliche_Lage.pdf
-2021,15,383,6.5,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,2,203,16.3,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,3,239,14.6,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,4,299,6.7,BAG_COVID-19_Woechentliche_Lage.pdf
@@ -42,3 +36,10 @@ year,week,total_number_of_tests,positivity_rate_percent,source_file
 2021,7,286,4.2,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,8,437,2.1,BAG_COVID-19_Woechentliche_Lage.pdf
 2021,9,431,2.3,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,10,610,3.8,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,11,513,1.5,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,12,690,5.9,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,13,592,7.7,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,14,564,0.7,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,15,383,6.5,BAG_COVID-19_Woechentliche_Lage.pdf
+2021,15,383,6.5,BAG_COVID-19_Woechentliche_Lage.pdf
