@@ -49,6 +49,8 @@ def parse_canton_data(canton, filename):
         end = txt.find('Die Anzahl durchgeführter Tests', start)
         if end >= 0:
             end -= 1
+    if end == -1:
+        end = txt.find('Gemeldete Tests nach Alter und Geschlecht', start)
     if end > start > 0 and end > start:
         tests_table = txt[start:end]
         # the numbers are sometimes separated with spaces for >1k values
