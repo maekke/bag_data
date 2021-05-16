@@ -15,7 +15,7 @@ def parse_weekly_data(filename):
 
     tot_tests = ''
     tot_antigen_tests = ''
-    pcr_pos = txt.find('Durchgeführte Tests')
+    pcr_pos = txt.find('Gemeldete Tests')
     if pcr_pos > 0:
         pcr_pos = txt.find('PCR', pcr_pos)
         pcr_end_pos = txt.find('\n', pcr_pos)
