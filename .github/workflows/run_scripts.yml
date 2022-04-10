@@ -1,9 +1,9 @@
 name: Run scripts
 
-on:
-  schedule:
-    - cron:  '0 * * * *' # run every hour
-  workflow_dispatch: ~
+#on:
+#  schedule:
+#    - cron:  '0 * * * *' # run every hour
+#  workflow_dispatch: ~
 
 jobs:
   parse_latest_pdf:
